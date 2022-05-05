@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Roboto+Mono:ital,wght@1,300;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .w-100vw {
+        width: 100vw;
+    }
+}
+
+body{
+    --scroll: 0;
+    @apply tracking-normal text-black
+}
