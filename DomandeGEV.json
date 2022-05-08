@@ -1,2023 +1,2023 @@
 {
-  "data" :{
-  "A001": {
-    "question": "Per potere effettuare il servizio volontario di vigilanza ecologica è necessario essere in possesso del decreto di approvazione prefettizio previsto ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza?",
-    "answers": [
-      {
-        "text": "Sì, sempre",
-        "is_correct": true
-      },
-      {
-        "text": "Sì, solo quando si voglia fare uso del porto d'armi",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": false
-      }
-    ]
-  },
-  "A002": {
-    "question": "Di quali documenti deve essere in possesso la Guardia Ecologica Volontaria per poter procedere all'accertamento di una violazione?",
-    "answers": [
-      {
-        "text": "Del solo tesserino di riconoscimento",
-        "is_correct": false
-      },
-      {
-        "text": "E’ sufficiente il solo decreto valido rilasciato dalla Prefettura",
-        "is_correct": false
-      },
-      {
-        "text": "Sono necessari sia l’atto di nomina rilasciato dalla Regione Emilia-Romagna che il decreto prefettizio valido",
-        "is_correct": true
-      }
-    ]
-  },
-  "A003": {
-    "question": "L'incarico di Guardia Ecologica Volontaria può essere sospeso?",
-    "answers": [
-      {
-        "text": "In caso non venga indossata la divisa o il bracciale durante il servizio",
-        "is_correct": false
-      },
-      {
-        "text": "In caso di accertata irregolarità nello svolgimento dei compiti assegnati",
-        "is_correct": true
-      },
-      {
-        "text": "In caso di reiterati errori nella compilazione dei verbali",
-        "is_correct": false
-      }
-    ]
-  },
-  "A004": {
-    "question": "Nell'espletamento del proprio servizio volontario di vigilanza ecologica le Guardie Ecologiche Volontarie possono essere armate?",
-    "answers": [
-      {
-        "text": "Sì, purchè in possesso di regolare porto d'armi",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, per alcuni particolari servizi di vigilanza, purchè in possesso di regolare porto d'armi",
-        "is_correct": false
-      },
-      {
-        "text": "No, non possono mai essere armate, anche se in possesso di porto d'armi",
-        "is_correct": true
-      }
-    ]
-  },
-  "A005": {
-    "question": "Secondo quanto previsto dalla Legge regionale istitutiva del servizio volontario di vigilanza ecologica, la Guardia Ecologica Volontaria quando può svolgere la propria attività?",
-    "answers": [
-      {
-        "text": "Organizzandosi anche individualmente",
-        "is_correct": false
-      },
-      {
-        "text": "Solo nell'ambito di ordini di servizio emanati dall'Ente con cui il Raggruppamento ha stipulato apposita convenzione",
-        "is_correct": false
-      },
-      {
-        "text": "Nel contesto del Raggruppamento provinciale, struttura associativa obbligatoria delle Guardie Ecologiche Volontarie",
-        "is_correct": true
-      }
-    ]
-  },
-  "A006": {
-    "question": "L'atto di nomina a Guardia Ecologica Volontaria da chi è disposto?",
-    "answers": [
-      {
-        "text": "Da ARPAE ",
-        "is_correct": false
-      },
-      {
-        "text": "Dal Prefetto della Provincia di appartenenza",
-        "is_correct": false
-      },
-      {
-        "text": "Dalla Regione",
-        "is_correct": true
-      }
-    ]
-  },
-  "A007": {
-    "question": "Quali sono i compiti delle Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "Accertare violazioni comportanti l'applicazione di sanzioni pecuniarie, di disposizioni di legge o di regolamento nei limiti del proprio incarico",
-        "is_correct": false
-      },
-      {
-        "text": "Accertare violazioni comportanti l'applicazione di sanzioni pecuniarie, di disposizioni di legge o di regolamento, nonchè di provvedimenti istitutivi di parchi e riserve, nei limiti dell'incarico e nell’ambito delle convenzioni stipulate con gli Enti titolari di competenze in materia di ambiente e tutela del patrimonio naturale",
-        "is_correct": true
-      },
-      {
-        "text": "Accertare, nell'ambito dell'incarico, reati comportanti l'applicazione delle pene dell'ammenda e dell'arresto",
-        "is_correct": false
-      }
-    ]
-  },
-  "A008": {
-    "question": "Da quale Ente sono nominate le Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "Dalla Prefettura competente territorialmente",
-        "is_correct": false
-      },
-      {
-        "text": "Dalla Regione",
-        "is_correct": true
-      },
-      {
-        "text": "Dal Sindaco, solo dopo avere prestato giuramento",
-        "is_correct": false
-      }
-    ]
-  },
-  "A009": {
-    "question": "In caso di accertata violazione, quale è il termine entro il quale il trasgressore può inoltrare scritti difensivi e chiedere di essere sentito dall'Autorità competente?",
-    "answers": [
-      {
-        "text": "30 giorni",
-        "is_correct": true
-      },
-      {
-        "text": "60 giorni",
-        "is_correct": false
-      },
-      {
-        "text": "90 giorni",
-        "is_correct": false
-      }
-    ]
-  },
-  "A010": {
-    "question": "A cosa è limitato il potere di accertamento delle Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "A tutte le normative ambientali che prevedono le sole sanzioni amministrative",
-        "is_correct": false
-      },
-      {
-        "text": "A tutte le normative ambientali di emanazione regionale",
-        "is_correct": false
-      },
-      {
-        "text": "A tutte le normative che prevedono le sole sanzioni amministrative e che sono contenute nell'atto di nomina",
-        "is_correct": true
-      }
-    ]
-  },
-  "A011": {
-    "question": "Quali sono i requisiti previsti in termini di servizio per il rinnovo del Decreto prefettizio di una Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Almeno 36 ore di attività nell'ultimo anno o 192 ore negli ultimi due anni",
-        "is_correct": false
-      },
-      {
-        "text": "Almeno 96 ore di attività nell'ultimo anno o 192 ore negli ultimi due anni",
-        "is_correct": true
-      },
-      {
-        "text": "Almeno 192 ore di attività nell'ultimo anno o 96 ore negli ultimi due anni",
-        "is_correct": false
-      }
-    ]
-  },
-  "A012": {
-    "question": "La Guardia Ecologica Volontaria può esercitare il proprio servizio volontario di vigilanza ecologica al di fuori del programma annuale delle attività e delle convenzioni stipulate tra il Raggruppamento e gli enti o gli organismi pubblici titolari di competenze in materie di ambiente e di tutela del patrimonio naturale?",
-    "answers": [
-      {
-        "text": "Sì, sempre",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, purchè in possesso dell’atto di nomina e del decreto prefettizio in corso di validità",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": true
-      }
-    ]
-  },
-  "A013": {
-    "question": "Ai fini dell'accertamento delle violazioni delle norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento, come può procedere la Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "All'identificazione del trasgressore",
-        "is_correct": true
-      },
-      {
-        "text": "All'ispezione di qualunque luogo",
-        "is_correct": false
-      },
-      {
-        "text": "All'ispezione e alla perquisizione a condizione che sia stato precedentemente identificato il trasgressore",
-        "is_correct": false
-      }
-    ]
-  },
-  "A014": {
-    "question": "Durante l’esercizio delle attività previste dall’art. 3 della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, la Guardia Ecologica Volontaria può procedere all’ispezione di una dimora privata?",
-    "answers": [
-      {
-        "text": "Sì, qualora le circostanze lo richiedano",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, solo se la violazione per la quale è necessaria l’ispezione rientra nei propri poteri di accertamento",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": true
-      }
-    ]
-  },
-  "A015": {
-    "question": "Da chi è approvato il Regolamento di servizio delle Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "Dall'Autorità di Pubblica Sicurezza",
-        "is_correct": true
-      },
-      {
-        "text": "Dal Prefetto della Provincia di appartenenza",
-        "is_correct": false
-      },
-      {
-        "text": "Dal Presidente della Regione",
-        "is_correct": false
-      }
-    ]
-  },
-  "A016": {
-    "question": "Quale è il termine previsto dalla Legge regionale n. 23/1989 di legge il quale deve essere inviato il verbale di accertamento all’Autorità competente ad emanare l’ordinanza/ingiunzione?",
-    "answers": [
-      {
-        "text": "Entro 36 ore",
-        "is_correct": false
-      },
-      {
-        "text": "Entro 48 ore",
-        "is_correct": true
-      },
-      {
-        "text": "Entro 12 ore",
-        "is_correct": false
-      }
-    ]
-  },
-  "A017": {
-    "question": "Nei compiti di accertamento previsti dall'articolo 3, lettera b), della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, cosa devono fare le Guardie Ecologiche Volontarie qualora accertino una violazione delle normative conferite con il proprio atto di nomina?",
-    "answers": [
-      {
-        "text": "Redigere una dettagliata relazione di servizio",
-        "is_correct": false
-      },
-      {
-        "text": "Informare il Comando dei Carabinieri o altro Ufficio di Polizia, chiedendo il loro intervento",
-        "is_correct": false
-      },
-      {
-        "text": "Redigere un processo verbale di accertamento da contestare, quando possibile, immediatamente al trasgressore",
-        "is_correct": true
-      }
-    ]
-  },
-  "A018": {
-    "question": "Quale Ente approva il corso di formazione per l’idoneità alla nomina di Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Provincia ",
-        "is_correct": false
-      },
-      {
-        "text": "Regione Emilia-Romagna",
-        "is_correct": true
-      },
-      {
-        "text": "Prefettura",
-        "is_correct": false
-      }
-    ]
-  },
-  "A019": {
-    "question": "Che cosa contiene l'atto di nomina di una Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Le norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento",
-        "is_correct": true
-      },
-      {
-        "text": "Le norme che prevedono sanzioni pecuniarie di tutte le leggi in materie di ambiente e di tutela del patrimonio naturale",
-        "is_correct": false
-      },
-      {
-        "text": "L’approvazione da parte del Prefetto ai sensi dell’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza",
-        "is_correct": false
-      }
-    ]
-  },
-  "A020": {
-    "question": "A quale Ente o Autorità deve essere inviato, nei termini di legge, il verbale di accertamento?",
-    "answers": [
-      {
-        "text": "Alla Provincia",
-        "is_correct": false
-      },
-      {
-        "text": "All’Ente o all’organismo pubblico competente",
-        "is_correct": false
-      },
-      {
-        "text": "Alla Prefettura",
-        "is_correct": false
-      }
-    ]
-  },
-  "A021": {
-    "question": "Quali violazioni può accertare la Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Tutte le violazioni previste nel programma di attività del proprio Raggruppamento",
-        "is_correct": false
-      },
-      {
-        "text": "Tutte violazioni previste dalle disposizioni di legge in materia di protezione dell'ambiente o di provvedimenti istitutivi di parchi e riserve",
-        "is_correct": false
-      },
-      {
-        "text": "Tutte le violazioni previste dalle disposizioni di legge o dai regolamenti in materia di tutela ambientale e del patrimonio naturale per cui gli sono stati conferiti i relativi poteri di accertamento con il proprio atto di nomina",
-        "is_correct": true
-      }
-    ]
-  },
-  "A022": {
-    "question": "Quale Ente può procedere alla revoca dell'atto di nomina?",
-    "answers": [
-      {
-        "text": "ARPAE",
-        "is_correct": false
-      },
-      {
-        "text": "Prefettura",
-        "is_correct": false
-      },
-      {
-        "text": "Regione Emilia-Romagna",
-        "is_correct": true
-      }
-    ]
-  },
-  "A023": {
-    "question": "A chi deve essere contestata la violazione?",
-    "answers": [
-      {
-        "text": "Al trasgressore",
-        "is_correct": false
-      },
-      {
-        "text": "All'obbligato in solido",
-        "is_correct": false
-      },
-      {
-        "text": "Al trasgressore e all'eventuale obbligato in solido",
-        "is_correct": true
-      }
-    ]
-  },
-  "A024": {
-    "question": "A chi devono essere inviati eventuali scritti difensivi o istanza in opposizione alle sanzioni amministrative accertate dalle Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "Al Tribunale Amministrativo Regionale",
-        "is_correct": false
-      },
-      {
-        "text": "All'Organo competente ad emettere l'ordinanza di ingiunzione",
-        "is_correct": true
-      },
-      {
-        "text": "Al Prefetto",
-        "is_correct": false
-      }
-    ]
-  },
-  "A025": {
-    "question": "Quali sono le disposizioni previste dall'art. 16, Legge n. 689/1981, circa il pagamento in misura ridotta?",
-    "answers": [
-      {
-        "text": "L'importo è stabilito calcolando l'importo massimo o il doppio del minimo se più favorevole",
-        "is_correct": false
-      },
-      {
-        "text": "L'importo è stabilito calcolando il doppio dell'importo massimo o al doppio dell'importo minimo se più favorevole",
-        "is_correct": false
-      },
-      {
-        "text": "L'importo è stabilito calcolando il terzo dell'importo massimo o al doppio dell'importo minimo se più favorevole",
-        "is_correct": true
-      }
-    ]
-  },
-  "A026": {
-    "question": "Entro quanto tempo deve essere contestata la violazione al trasgressore?",
-    "answers": [
-      {
-        "text": "Immediatamente, qualora possibile",
-        "is_correct": true
-      },
-      {
-        "text": "Entro 48 ore",
-        "is_correct": false
-      },
-      {
-        "text": "Può essere contestata solo se il trasgressore non si oppone all’accertamento della violazione",
-        "is_correct": false
-      }
-    ]
-  },
-  "A027": {
-    "question": "Qualora non fosse possibile contestare immediatamente la violazione, quali sono i termini di legge entro i quali la notifica deve essere effettuata ai trasgressori residenti sul territorio italiano?",
-    "answers": [
-      {
-        "text": "Entro 48 ore",
-        "is_correct": false
-      },
-      {
-        "text": "Entro 90 giorni",
-        "is_correct": true
-      },
-      {
-        "text": "Entro 360 giorni",
-        "is_correct": false
-      }
-    ]
-  },
-  "A028": {
-    "question": "Quali sono i requisiti per costituire e rendere operativo un Raggruppamento provinciale?",
-    "answers": [
-      {
-        "text": "La dotazione di uno Statuto e di un regolamento di servizio, l’iscrizione al Registro regionale del volontariato e l’adesione di almeno 30 volontari dotati di atto di nomina e di valido decreto prefettizio",
-        "is_correct": false
-      },
-      {
-        "text": "La dotazione di uno Statuto e di un regolamento di servizio, l’iscrizione al Registro regionale del volontariato, l’adesione al programma annuale delle attività, la stipula della convenzione con ARPAE e l’adesione di almeno 30 volontari dotati di atto di nomina e di valido decreto prefettizio",
-        "is_correct": true
-      },
-      {
-        "text": "No, non è richiesto nessuno requisito formale poiché il Raggruppamento gode di propria autonomia in quanto associazione di volontariato",
-        "is_correct": false
-      }
-    ]
-  },
-  "A029": {
-    "question": "Che cos'è l'atto di nomina?",
-    "answers": [
-      {
-        "text": "Il provvedimento previsto dalla Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” che conferisce i poteri di accertamento di ogni singola Guardia Ecologica Volontaria",
-        "is_correct": true
-      },
-      {
-        "text": "Il provvedimento che conferisce alle Guardie Ecologiche Volontarie la qualifica di Pubblico Ufficiale",
-        "is_correct": false
-      },
-      {
-        "text": "Il provvedimento che conferisce alle Guardie Ecologiche Volontarie la qualifica di Guardia Giurata Particolare",
-        "is_correct": false
-      }
-    ]
-  },
-  "A030": {
-    "question": "In che modo le Guardie Ecologiche Volontarie svolgono la loro attività?",
-    "answers": [
-      {
-        "text": "Di propria iniziativa, qualora lo ritengano opportuno",
-        "is_correct": false
-      },
-      {
-        "text": "In modo coordinato organizzandosi in Raggruppamenti",
-        "is_correct": true
-      },
-      {
-        "text": "Secondo le direttive impartite dall'organo di Pubblica Sicurezza ",
-        "is_correct": false
-      }
-    ]
-  },
-  "A031": {
-    "question": "Nell’accertare una violazione, come si deve comportare la Guardia Ecologica Volontaria, circa il pagamento della sanzione amministrativa?",
-    "answers": [
-      {
-        "text": "Possono riscuotere direttamente la cifra dal trasgressore, se questi è d'accordo",
-        "is_correct": false
-      },
-      {
-        "text": "Procedono a redigere il verbale e possono pattuire con il trasgressore l'importo minimo della sanzione, applicando il pagamento in misura ridotta",
-        "is_correct": false
-      },
-      {
-        "text": "Procedono a redigere il verbale di accertamento indicando quanto disposto dalle normative vigenti circa la relativa sanzione prevista",
-        "is_correct": true
-      }
-    ]
-  },
-  "A032": {
-    "question": "Le Guardie Ecologiche Volontarie possono svolgere la loro attività armate?",
-    "answers": [
-      {
-        "text": "Sì, ma solo se autorizzati dalla Prefettura",
-        "is_correct": false
-      },
-      {
-        "text": "Solo per servizi particolarmente complessi e pericolosi",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": true
-      }
-    ]
-  },
-  "A033": {
-    "question": "Le Guardie Ecologiche Volontarie possono eseguire una perquisizione personale?",
-    "answers": [
-      {
-        "text": "Sì, sempre",
-        "is_correct": false
-      },
-      {
-        "text": "Solo in presenza di testimoni e qualora sia richiesto dalle circostanze",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": true
-      }
-    ]
-  },
-  "A034": {
-    "question": "Le Guardie Ecologiche Volontarie, nell'esercizio delle loro funzioni ed in presenza di un illecito, possono procedere al sequestro?",
-    "answers": [
-      {
-        "text": "No, mai",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, solo quando lo ritengano opportuno",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, quando la legge lo preveda espressamente",
-        "is_correct": true
-      }
-    ]
-  },
-  "A035": {
-    "question": "Di cosa deve essere in possesso la Guardia Ecologica Volontaria per svolgere i compiti previsti dall’art. 3, della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”?",
-    "answers": [
-      {
-        "text": "Dell’atto di nomina e del decreto prefettizio valido",
-        "is_correct": true
-      },
-      {
-        "text": "Del solo atto di nomina",
-        "is_correct": false
-      },
-      {
-        "text": "Del solo decreto prefettizio valido",
-        "is_correct": false
-      }
-    ]
-  },
-  "A036": {
-    "question": "Quale legge regionale istituisce la figura della Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Legge Regionale n. 32/1988",
-        "is_correct": false
-      },
-      {
-        "text": "Legge Regionale n. 23/1989",
-        "is_correct": true
-      },
-      {
-        "text": "Legge Regionale n. 53/1989",
-        "is_correct": false
-      }
-    ]
-  },
-  "A037": {
-    "question": "A che cosa è subordinata l’efficacia della nomina a Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "Alla Legge Regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” che prevede la nomina da parte di ARPAE e al giuramento dinnanzi al Prefetto o a un funzionario da questi delegato ai sensi dell'art. 250 del Regio Decreto 6 maggio 1940, n. 635 “Approvazione del Regolamento per l’esecuzione del Testo Unico 18 giugno 1931, n. 773 delle Leggi di Pubblica Sicurezza ",
-        "is_correct": false
-      },
-      {
-        "text": "All’approvazione del Prefetto ai sensi dell’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza 18 giugno 1931, n. 773 e alla prestazione del giuramento dinnanzi al Prefetto o ad un funzionario da questi delegato ai sensi dell’art. 250 del Regio Decreto 6 maggio 1940, n. 635 “Approvazione del Regolamento per l’esecuzione del Testo Unico 18 giugno 1931, n. 773 delle Leggi di Pubblica Sicurezza”",
-        "is_correct": true
-      },
-      {
-        "text": "Dalla Giunta Regionale in base all’articolo 14 della Legge regionale 24 gennaio 1977, n. 2 previa approvazione del Prefetto ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza 18 giugno 1931, n. 773",
-        "is_correct": false
-      }
-    ]
-  },
-  "A038": {
-    "question": "Durante lo svolgimento dei compiti previsti dall'articolo 3, comma 1, lettera b) della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, come si deve comportare la Guardia Ecologica Volontaria nel caso accerti un'infrazione che prevede una sanzione amministrativa pecuniaria per la cui violazione le è stato conferito il potere di accertamento?",
-    "answers": [
-      {
-        "text": "La GEV deve redigere una dettagliata relazione di servizio da inviare, se possibile immediatamente, alla Prefettura",
-        "is_correct": false
-      },
-      {
-        "text": "La GEV deve redigere un processo verbale di accertamento da contestare, se possibile immediatamente, al trasgressore",
-        "is_correct": true
-      },
-      {
-        "text": "La GEV deve informare, se possibile immediatamente, il più vicino Comando dei Carabinieri o altro ufficio di Polizia, chiedendo il loro intervento",
-        "is_correct": false
-      }
-    ]
-  },
-  "A039": {
-    "question": "La Legge n. 689/81 “Modifiche al sistema penale” prevede che la violazione debba essere contestata al trasgressore e all’eventuale responsabile in solido. Entro quanto tempo ciò deve avvenire?",
-    "answers": [
-      {
-        "text": "Quando possibile, immediatamente",
-        "is_correct": true
-      },
-      {
-        "text": "Entro 24 ore",
-        "is_correct": false
-      },
-      {
-        "text": "Entro 48 ore",
-        "is_correct": false
-      }
-    ]
-  },
-  "A040": {
-    "question": "Nella compilazione del verbale la voce “obbligato in solido” cosa significa?",
-    "answers": [
-      {
-        "text": "Persona che ha commesso la trasgressione",
-        "is_correct": false
-      },
-      {
-        "text": "Persona che condivide le stesse responsabilità giuridiche del trasgressore",
-        "is_correct": true
-      },
-      {
-        "text": "Persona obbligata a consegnare il mezzo usato per trasgredire",
-        "is_correct": false
-      }
-    ]
-  },
-  "A041": {
-    "question": "In quale norma vengono definiti i compiti specifici che ciascuna Guardia Ecologica Volontaria è chiamata a svolgere?",
-    "answers": [
-      {
-        "text": "L’articolo 6, comma 2, della Legge Regionale 3 luglio 1989, n. 23",
-        "is_correct": true
-      },
-      {
-        "text": "L’articolo 10, comma 2, della Legge Regionale 17 febbraio 2005, n. 6",
-        "is_correct": false
-      },
-      {
-        "text": "L’articolo 14 della Legge Regionale 24 gennaio 1977, n.2",
-        "is_correct": false
-      }
-    ]
-  },
-  "A042": {
-    "question": "Per espletare l'attività di Guardia Ecologica Volontaria è necessario il decreto di approvazione prefettizio ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza approvato con Regio Decreto 18 giugno 1931 n.773?",
-    "answers": [
-      {
-        "text": "Sì, sempre",
-        "is_correct": true
-      },
-      {
-        "text": "Solo qualora si voglia fare uso del porto d'armi",
-        "is_correct": false
-      },
-      {
-        "text": "No, mai",
-        "is_correct": false
-      }
-    ]
-  },
-  "A043": {
-    "question": "Il trasgressore, al quale sia stata contestata immediatamente, ovvero notificata nei termini previsti, una violazione amministrativa, entro quanto tempo ha la possibilità di presentare scritti difensivi e chiedere di essere sentito dall'Autorità competente?",
-    "answers": [
-      {
-        "text": "30 giorni",
-        "is_correct": true
-      },
-      {
-        "text": "60 giorni",
-        "is_correct": false
-      },
-      {
-        "text": "90 giorni",
-        "is_correct": false
-      }
-    ]
-  },
-  "A044": {
-    "question": "Chi dispone l’atto di nomina a Guardia Ecologica Volontaria?",
-    "answers": [
-      {
-        "text": "La Provincia",
-        "is_correct": false
-      },
-      {
-        "text": "La Regione",
-        "is_correct": true
-      },
-      {
-        "text": "ARPAE",
-        "is_correct": false
-      }
-    ]
-  },
-  "A045": {
-    "question": "Qual è l’iter per poter svolgere le attività previste dall'art. 3, della Legge Regionale n. 23/1989 “Disciplina del Servizio Volontario di Vigilanza Ecologica”?",
-    "answers": [
-      {
-        "text": "Frequentare un corso di formazione, superare l'esame di idoneità ed essere in possesso dell’atto di nomina rilasciato dal Sindaco",
-        "is_correct": false
-      },
-      {
-        "text": "Frequentare un corso di formazione, superare l'esame di idoneità, essere in possesso dell’atto di nomina e prestare giuramento davanti al Prefetto",
-        "is_correct": false
-      },
-      {
-        "text": "Frequentare un corso di formazione, superare l'esame di idoneità, essere in possesso della nomina rilasciata dalla Regione e del Decreto rilasciato dal Prefetto dopo il giuramento",
-        "is_correct": true
-      }
-    ]
-  },
-  "A046": {
-    "question": "Le Guardie Ecologiche Volontarie possono procedere con gli atti di accertamento di cui all'art. 13 della Legge n. 689/1981?",
-    "answers": [
-      {
-        "text": "Sì, ma per l'accertamento delle violazioni di competenza non possono procedere ad ispezioni ed a rilievi fotografici",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, per l'accertamento delle violazioni di competenza si possono assumere informazioni e procedere ad ispezioni di cose e di luoghi diversi dalla privata dimora, a rilievi segnaletici, descrittivi e fotografici e ad ogni altra operazione tecnica",
-        "is_correct": true
-      },
-      {
-        "text": "Sì, per l'accertamento delle violazioni di competenza si può procedere ad ispezioni e a rilievi segnalateci descrittivi e fotografici anche nella privata dimora",
-        "is_correct": false
-      }
-    ]
-  },
-  "A047": {
-    "question": "Le Guardie Ecologiche Volontarie possono svolgere la loro attività liberamente?",
-    "answers": [
-      {
-        "text": "Sì, le Guardie Ecologiche Volontarie possono svolgere liberamente la loro attività purchè nell'ambito dei programmi previsti dalla Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” e concordati annualmente",
-        "is_correct": false
-      },
-      {
-        "text": "No, le Guardie Ecologiche Volontarie devono svolgere la loro attività solo se organizzate nei Raggruppamenti, nell'ambito dei programmi stabiliti e delle convenzioni stipulate con gli enti aventi competenza in materia ambientale",
-        "is_correct": true
-      },
-      {
-        "text": "No, le Guardie Ecologiche Volontarie devono associarsi ai Raggruppamenti e solo dopo posso svolgere liberamente la loro attività",
-        "is_correct": false
-      }
-    ]
-  },
-  "A048": {
-    "question": "Quale è il numero minimo necessario di volontari, in possesso dell’atto di nomina, per costituire un Raggruppamento di Guardie Ecologiche Volontarie?",
-    "answers": [
-      {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      },
-      {
-        "text": "40",
-        "is_correct": false
-      }
-    ]
-  },
-  "A049": {
-    "question": "Quale norma definisce i compiti specifici che ciascuna Guardia Ecologica Volontaria è chiamata a svolgere?",
-    "answers": [
-      {
-        "text": "L’articolo 6, comma 2, della Legge Regionale 3 luglio 1989, n. 23",
-        "is_correct": true
-      },
-      {
-        "text": "L’articolo 25, comma 2, della Legge Regionale 17 febbraio 2005, n. 6",
-        "is_correct": false
-      },
-      {
-        "text": "L’articolo 14, comma 1, della Legge Regionale 24 gennaio 1977, n. 2",
-        "is_correct": false
-      }
-    ]
-  },
-  "A050": {
-    "question": "Quando la Guardia Ecologica Volontaria in servizio accerta una violazione comportante l'applicazione di sanzioni amministrative pecuniarie previste nel proprio atto di nomina, come deve procedere?",
-    "answers": [
-      {
-        "text": "La Guardia Ecologica Volontaria deve predisporre una lettera di segnalazione da inviare agli Enti competenti",
-        "is_correct": false
-      },
-      {
-        "text": "La Guardia Ecologica Volontaria deve inviare una segnalazione dettagliata e puntuale agli organi di Polizia",
-        "is_correct": false
-      },
-      {
-        "text": "La Guardia Ecologica Volontaria deve redigere un processo verbale di accertamento",
-        "is_correct": true
-      }
-    ]
-  },
-  "A051": {
-    "question": "La Guardia Ecologica Volontaria può effettuare un sequestro?",
-    "answers": [
-      {
-        "text": "Sì, può sequestrare qualsiasi cosa se ha visto commettere un illecito od un reato",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, ma esclusivamente un sequestro amministrativo del prodotto e dei mezzi della violazione che possono formare oggetto di confisca amministrativa",
-        "is_correct": true
-      },
-      {
-        "text": "No, deve fare intervenire la Polizia Giudiziaria",
-        "is_correct": false
-      }
-    ]
-  },
-  "A052": {
-    "question": "Che cosa prevede l’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza?",
-    "answers": [
-      {
-        "text": "I requisiti che devono possedere le Guardie Giurate Particolari",
-        "is_correct": true
-      },
-      {
-        "text": "Le norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento",
-        "is_correct": false
-      },
-      {
-        "text": "I compiti delle Guardie Ecologiche Volontarie ",
-        "is_correct": false
-      }
-    ]
-  },
-  "A053": {
-    "question": "La Guardia Ecologica Volontaria può sempre e in qualsiasi momento accertare le violazioni previste dalle norme presenti nel proprio atto di nomina?",
-    "answers": [
-      {
-        "text": "No, la Guardia Ecologica Volontaria può accertare una violazione solo nell’ambito di convenzioni stipulate con gli enti e/o gli organismi titolari delle funzioni e solo all’interno di servizi coordinati e autorizzati dal Raggruppamento",
-        "is_correct": true
-      },
-      {
-        "text": "No, la Guardia Ecologica Volontaria può accertare una violazione solo all’interno di servizi coordinati e autorizzati dal Raggruppamento",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, sempre purchè questa sia ricompresa tra i poteri di accertamento presenti nell’atto di nomina ",
-        "is_correct": false
-      }
-    ]
-  },
-  "A054": {
-    "question": "Il Regolamento di Servizio di cui si deve dotare un Raggruppamento da chi deve essere approvato?",
-    "answers": [
-      {
-        "text": "Dal Raggruppamento stesso",
-        "is_correct": false
-      },
-      {
-        "text": "Dall’Autorità di Pubblica Sicurezza",
-        "is_correct": true
-      },
-      {
-        "text": "Dalla Regione Emilia-Romagna",
-        "is_correct": false
-      }
-    ]
-  },
-  "A055": {
-    "question": "Cosa deve contenere obbligatoriamente un processo verbale di accertamento?",
-    "answers": [
-      {
-        "text": "Il verbale di accertamento deve contenere l’indicazione della data, ora e luogo dell’accertamento, la descrizione succinta del fatto, l’indicazione di eventuali responsabili in solido ai sensi dell’art. 6 della legge statale, la menzione della facoltà di pagamento in forma ridotta con l’indicazione del relativo importo e delle modalità di pagamento",
-        "is_correct": false
-      },
-      {
-        "text": "Tutti gli elementi fondamentali previsti dall’art. 8 della Legge regionale 28 aprile 1984, n. 21 Disciplina dell’Applicazione delle sanzioni amministrative di competenza regionale",
-        "is_correct": true
-      },
-      {
-        "text": "Il verbale di accertamento può essere redatto su qualsiasi supporto cartaceo e oltre ad una descrizione succinta dei fatti non contiene elementi obbligatori previsti dalla normativa vigente",
-        "is_correct": false
-      }
-    ]
-  },
-  "B001": {
-    "question": "Ai sensi della normativa vigente, qual è la definizione di parco regionale?",
-    "answers": [
-      {
-        "text": "Un'area protetta comprendente ambienti naturali o in corso di naturalizzazione di limitata estensione, inseriti in ambiti territoriali caratterizzati da intense attività antropiche, organizzata in modo da garantire la conservazione, il restauro, la ricostituzione degli ambienti degradati ai fini della conservazione delle specie animali e vegetali",
-        "is_correct": false
-      },
-      {
-        "text": "Un'area naturale protetta costituita da sistemi territoriali che, per valori naturali, scientifici, storico culturali e paesaggistici di particolare interesse nelle loro caratteristiche complessive, organizzata in modo unitario avendo riguardo alle esigenze di conservazione, riqualificazione e valorizzazione degli ambienti naturali e seminaturali e delle loro risorse, nonché allo sviluppo delle attività umane ed economiche compatibili",
-        "is_correct": true
-      },
-      {
-        "text": "Un’area naturale protetta istituita e gestita ai fini della conservazione dei caratteri e contenuti morfologici, biologici, ecologici, scientifici e culturali di rilevanza regionale",
-        "is_correct": false
-      }
-    ]
-  },
-  "B002": {
-    "question": "Cosa è il Piano Territoriale del Parco regionale?",
-    "answers": [
-      {
-        "text": "La parte dello strumento di pianificazione comunale dell'area di parco ed area contigua relativo alla tutela i valori paesaggistici e ambientali ",
-        "is_correct": false
-      },
-      {
-        "text": "Lo strumento generale che regola l’assetto del territorio dell’ambiente e degli habitat compresi nel suo perimetro ed il suo raccordo con il contesto; indica gli obiettivi specifici e di settore e precisa le destinazioni d’uso da osservare mediante gli azzonamenti e norme",
-        "is_correct": true
-      },
-      {
-        "text": "Lo strumento che individua le grandi suddivisioni di tipo fisiografico (montagna, collina, pianura, costa), i sistemi tematici (agricolo, boschivo, delle acque, insediativo) e le componenti biologiche, geomorfologiche o insediative che per la loro persistenza e inerzia al cambiamento si sono poste come elementi ordinatori delle fasi di crescita e di trasformazione del territorio di pertinenza del parco regionale",
-        "is_correct": false
-      }
-    ]
-  },
-  "B003": {
-    "question": "Cosa è il regolamento di un Parco regionale?",
-    "answers": [
-      {
-        "text": "L'insieme delle norme che disciplinano le attività consentite nel parco in conformità con le previsioni del Piano Territoriale del Parco",
-        "is_correct": true
-      },
-      {
-        "text": "L'insieme delle norme di attuazione del Piano Territoriale del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "L'insieme delle regole necessarie per elaborare il Piano Territoriale del Parco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B004": {
-    "question": "Quali sono i contenuti generali del Piano territoriale di un Parco regionale?",
-    "answers": [
-      {
-        "text": "Il Piano Territoriale del Parco articola il territorio in zone territoriali omogenee classificate come A, B, C, D, area contigua, in relazioni agli usi funzionali e produttivi",
-        "is_correct": true
-      },
-      {
-        "text": "Il Piano Territoriale del Parco disciplina le attività consentite nel Parco e nell’area contigua e le loro modalità attuative in conformità alle previsioni, prescrizioni e direttive contenute nel Piano Territoriale Paesistico",
-        "is_correct": false
-      },
-      {
-        "text": "Il Piano Territoriale del Parco delinea le scelte strategiche di sviluppo e tutela l'integrità ambientale e l'identità culturale del Parco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B005": {
-    "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco quale è la definizione di zona “B”?",
-    "answers": [
-      {
-        "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
-        "is_correct": true
-      },
-      {
-        "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "Una zona di protezione dell'ambiente naturale in quanto integro. E' consentito esclusivamente l'accesso per scopi scientifici e didattici previa autorizzazione dell'Ente di gestione del Parco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B006": {
-    "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco qual è la definizione di zona “A”?",
-    "answers": [
-      {
-        "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
-        "is_correct": false
-      },
-      {
-        "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "Una zona di protezione integrale, nella quale l'ambiente naturale è protetto nella sua integrità. È consentito l'accesso per scopi scientifici e didattici previa autorizzazione dell'Ente di gestione del Parco",
-        "is_correct": true
-      }
-    ]
-  },
-  "B007": {
-    "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco qual è la definizione di zona “D”?",
-    "answers": [
-      {
-        "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
-        "is_correct": false
-      },
-      {
-        "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "Una zona corrispondente al territorio urbano e urbanizzabile all'interno del territorio del Parco. Per tale zona il Piano definisce i limiti e le condizioni alle trasformazioni urbane in coerenza con le finalità generali e particolari del Parco",
-        "is_correct": true
-      }
-    ]
-  },
-  "B008": {
-    "question": "Quali attività sono ammesse nell’area contigua di un parco regionale?",
-    "answers": [
-      {
-        "text": "La legge prevede che il Piano Territoriale del Parco ed il Regolamento prevedano l’esercizio della caccia libera programmata",
-        "is_correct": false
-      },
-      {
-        "text": "La legge prevede che il Piano Territoriale del Parco possa prevedere attività estrattive esclusivamente se la gestione e la sistemazione finale delle aree interessate siano compatibili con le finalità del Parco ed in particolare si contribuisca al ripristino ambientale delle aree degradate",
-        "is_correct": true
-      },
-      {
-        "text": "La legge prevede il Piano Territoriale del Parco possa prevedere la realizzazione di discariche di dimensioni ridotte e compatibili con l’ambiente",
-        "is_correct": false
-      }
-    ]
-  },
-  "B009": {
-    "question": "Quale strumento può regolamentare la raccolta dei prodotti del sottobosco nei parchi regionali?",
-    "answers": [
-      {
-        "text": "Il regolamento dell’Unione dei Comuni sentito l'Ente di gestione del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "Il regolamento dell’Unione interessata",
-        "is_correct": false
-      },
-      {
-        "text": "Il regolamento del Parco",
-        "is_correct": true
-      }
-    ]
-  },
-  "B010": {
-    "question": "Cosa indica l’area contigua di un Parco?",
-    "answers": [
-      {
-        "text": "Un’area non ricompresa nel Parco con funzione di transizione e connessione rispetto al territorio del Parco stesso",
-        "is_correct": true
-      },
-      {
-        "text": "Un’area ricompresa nel Parco dove non vengono applicate i divieti previsti nelle altre zone territoriali omogenee",
-        "is_correct": false
-      },
-      {
-        "text": "Un’area ricompresa nel Parco che corrisponde al territorio urbano e urbanizzabile nella quale sono consentite tutte le attività compatibili con le finalità di salvaguardia del Parco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B011": {
-    "question": "Dove è indicata la perimetrazione della zonazione interna delle Riserve naturali?",
-    "answers": [
-      {
-        "text": "Nel Programma triennale di tutela e valorizzazione di una Riserva",
-        "is_correct": false
-      },
-      {
-        "text": "Nella deliberazione istitutiva della Riserva",
-        "is_correct": true
-      },
-      {
-        "text": "Nel Piano territoriale della Riserva",
-        "is_correct": false
-      }
-    ]
-  },
-  "B012": {
-    "question": "Quante sono e che cosa rappresentano le macroaree individuate dalla Legge regionale n. 24/2011 “Riorganizzazione del sistema Regionale delle Aree Protette e dei Siti della Rete Natura 2000 e istituzione del Parco Regionale dello Stirone e del Piacenziano”?",
-    "answers": [
-      {
-        "text": "Sono tre: una per l’appennino, una per la pianura e una per la costa e comprendono tutti i Parchi nazionali, i Parchi interregionali, i Parchi regionali e le Riserve, nonché i siti della Rete Natura 2000",
-        "is_correct": false
-      },
-      {
-        "text": "Sono tre, una per i Parchi, una per le Riserve e una per le Aree di Riequilibrio Ecologico",
-        "is_correct": false
-      },
-      {
-        "text": "Sono cinque e riuniscono le aree naturali protette appartenenti ad una zona territoriale omogenea dal punto di vista geografico, naturalistico e conservazionistico",
-        "is_correct": true
-      }
-    ]
-  },
-  "B013": {
-    "question": "Quale è la zona di protezione integrale all’interno di un Parco regionale?",
-    "answers": [
-      {
-        "text": "Zona A",
-        "is_correct": true
-      },
-      {
-        "text": "Zona contigua",
-        "is_correct": false
-      },
-      {
-        "text": "Zona B",
-        "is_correct": false
-      }
-    ]
-  },
-  "B014": {
-    "question": "Quale è la zona di un Parco Regionale in cui sono possibili particolari tipologie di interventi edilizi?",
-    "answers": [
-      {
-        "text": "Zona A",
-        "is_correct": false
-      },
-      {
-        "text": "Zona B",
-        "is_correct": false
-      },
-      {
-        "text": "Zona C a determinate condizioni e Area contigua",
-        "is_correct": true
-      }
-    ]
-  },
-  "B015": {
-    "question": "Quale è l'oggetto di tutela della convenzione di Ramsar?",
-    "answers": [
-      {
-        "text": "Le zone umide di importanza internazionale",
-        "is_correct": true
-      },
-      {
-        "text": "Le zone boscate",
-        "is_correct": false
-      },
-      {
-        "text": "Le aree di sosta degli uccelli",
-        "is_correct": false
-      }
-    ]
-  },
-  "B016": {
-    "question": "È consentita l'attività venatoria all’interno delle zone A, B, C, e D di un parco regionale?",
-    "answers": [
-      {
-        "text": "Sì, è consentita",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, ma è regolamentata",
-        "is_correct": false
-      },
-      {
-        "text": "No, è vietata",
-        "is_correct": true
-      }
-    ]
-  },
-  "B017": {
-    "question": "Il Regolamento di un Parco cosa disciplina?",
-    "answers": [
-      {
-        "text": "L’assetto del territorio e degli habitat compresi nel perimetro dell’area protetta",
-        "is_correct": false
-      },
-      {
-        "text": "L’attività venatoria all’interno dell’area protetta",
-        "is_correct": false
-      },
-      {
-        "text": "Le attività consentite nell’area protetta e le loro modalità attuative in conformità alle norme di attuazione del Piano Territoriale del Parco",
-        "is_correct": true
-      }
-    ]
-  },
-  "B018": {
-    "question": "In base alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” il territorio ricompreso in un Parco in quante e quali zone omogenee può essere articolato nelle previsioni del Piano Territoriale?",
-    "answers": [
-      {
-        "text": "Variabile da un minimo di tre ad un massimo di dieci zone",
-        "is_correct": false
-      },
-      {
-        "text": "Tre: zona A (Protezione integrale), zona B (Protezione generale), zona C (Protezione faunistica)",
-        "is_correct": false
-      },
-      {
-        "text": "Cinque: zona A (Protezione integrale), zona B (Protezione generale), zona C (Protezione ambientale), zona D (Territorio urbano e urbanizzabile), Area Contigua",
-        "is_correct": true
-      }
-    ]
-  },
-  "B019": {
-    "question": "Quali tipologie appartengono alle Aree naturali protette disciplinate dalla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”?",
-    "answers": [
-      {
-        "text": "Parchi regionali, Parchi storici, Parchi urbani, Oasi faunistiche",
-        "is_correct": false
-      },
-      {
-        "text": "Parchi regionali, Riserve naturali, Aree di Tutela Agricola",
-        "is_correct": false
-      },
-      {
-        "text": "Parchi regionali, Parchi interregionali, Riserve naturali, Paesaggi Naturali e Seminaturali Protetti, Aree di Riequilibrio Ecologico",
-        "is_correct": true
-      }
-    ]
-  },
-  "B020": {
-    "question": "Quale Ente, e con quale strumento, può istituire un Parco regionale?",
-    "answers": [
-      {
-        "text": "Il Comune con i piani urbanistici nella loro parte ambientale",
-        "is_correct": false
-      },
-      {
-        "text": "La Città Metropolitana o la Provincia con apposita Delibera del Consiglio in seguito alla delega della Legge Regionale sulle aree protette",
-        "is_correct": false
-      },
-      {
-        "text": "La Regione con apposita Legge Regionale",
-        "is_correct": true
-      }
-    ]
-  },
-  "B021": {
-    "question": "Quale Ente è competente alla erogazione di sanzioni amministrative per violazioni alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”, in materia di aree protette?",
-    "answers": [
-      {
-        "text": "L'Ente di gestione dell'area protetta",
-        "is_correct": true
-      },
-      {
-        "text": "La Città Metropolitana o la Provincia",
-        "is_correct": false
-      },
-      {
-        "text": "La Regione",
-        "is_correct": false
-      }
-    ]
-  },
-  "B022": {
-    "question": "Ai sensi della Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” nelle Riserve Naturali quale attività è vietata?",
-    "answers": [
-      {
-        "text": "L'esercizio venatorio",
-        "is_correct": true
-      },
-      {
-        "text": "L'accesso per finalità escursionistico-ricreative",
-        "is_correct": false
-      },
-      {
-        "text": "L’accesso con i mezzi motorizzati",
-        "is_correct": false
-      }
-    ]
-  },
-  "B023": {
-    "question": "Cosa sono le Aree di Riequilibrio Ecologico?",
-    "answers": [
-      {
-        "text": "Le aree naturali sottoposte alla disciplina dettata dalla Direttiva Habitat e dalla Direttiva Uccelli ",
-        "is_correct": false
-      },
-      {
-        "text": "Le aree naturali o in corso di naturalizzazione di piccole dimensioni inserite in contesti caratterizzati da intensa attività antropica",
-        "is_correct": true
-      },
-      {
-        "text": "Le aree naturali finalizzate al ripopolamento e alla protezione della fauna selvatica",
-        "is_correct": false
-      }
-    ]
-  },
-  "B024": {
-    "question": "Nelle aree contigue di un Parco regionale è permesso esercitare la pesca?",
-    "answers": [
-      {
-        "text": "Sì, ma secondo le modalità e i criteri stabili dal Regolamento dell'Ente di gestione del Parco",
-        "is_correct": true
-      },
-      {
-        "text": "Sì, secondo le modalità previste dalla specifica zona di tutela (zone di ripopolamento e sfrega, zona di protezione integrale, zona di protezione delle specie ittiche e zone a regime speciale di pesca)",
-        "is_correct": false
-      },
-      {
-        "text": "No, è sempre vietata",
-        "is_correct": false
-      }
-    ]
-  },
-  "B025": {
-    "question": "Come sono stati denominati gli enti pubblici istituti per la gestione delle macroaree ai sensi della Legge Regionale n. 24/2011 “Riorganizzazione del sistema Regionale delle Aree Protette e dei Siti della Rete Natura 2000 e istituzione del Parco Regionale dello Stirone e del Piacenziano”?",
-    "answers": [
-      {
-        "text": "Ente di gestione della macroarea",
-        "is_correct": false
-      },
-      {
-        "text": "Ente di gestione per i Parchi e la Biodiversità",
-        "is_correct": true
-      },
-      {
-        "text": "Ente di gestione delle Aree Protette",
-        "is_correct": false
-      }
-    ]
-  },
-  "B026": {
-    "question": "Cosa è la Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "La Rete di aree da tutelare secondo la normativa europea",
-        "is_correct": true
-      },
-      {
-        "text": "La Rete di aree da tutelare in base alla normativa italiana",
-        "is_correct": false
-      },
-      {
-        "text": "La Rete di aree da tutelare in base alla normativa dell'Unesco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B027": {
-    "question": "Cosa tutela la Rete ecologica Natura 2000?",
-    "answers": [
-      {
-        "text": "Habitat e uccelli",
-        "is_correct": false
-      },
-      {
-        "text": "Habitat, specie animali e vegetali",
-        "is_correct": true
-      },
-      {
-        "text": "Habitat nei parchi ",
-        "is_correct": false
-      }
-    ]
-  },
-  "B028": {
-    "question": "In base a cosa sono designati i siti di Rete Natura 2000 secondo la Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”?",
-    "answers": [
-      {
-        "text": "Presenza di habitat e specie di interesse comunitario",
-        "is_correct": true
-      },
-      {
-        "text": "Presenza di habitat e particolari specie protette di flora",
-        "is_correct": false
-      },
-      {
-        "text": "Presenza di condizioni idonee alla conservazione della natura",
-        "is_correct": false
-      }
-    ]
-  },
-  "B029": {
-    "question": "E’ possibile cacciare in un sito di Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "No mai, il calendario venatorio regionale lo vieta",
-        "is_correct": false
-      },
-      {
-        "text": "Sì sempre, ma solo fuori dai Parchi se permesso dal calendario venatorio regionale",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, ma non ovunque e con limitazioni derivanti dalle misure di conservazione e dal calendario venatorio regionale",
-        "is_correct": true
-      }
-    ]
-  },
-  "B030": {
-    "question": "Per quali siti è obbligatoria sempre la Valutazione di Incidenza Ambientale, fatte salve le cause di esclusione?",
-    "answers": [
-      {
-        "text": "All’interno dei siti di Rete Natura 2000",
-        "is_correct": true
-      },
-      {
-        "text": "All'interno dei siti di Rete Natura 2000 esterni alle Aree protette",
-        "is_correct": false
-      },
-      {
-        "text": "All’interno dei siti di rete Natura 2000 e nell'areale intorno fino a 2 chilometri dal sito",
-        "is_correct": false
-      }
-    ]
-  },
-  "B031": {
-    "question": "E’ possibile eliminare le zone umide di origine artificiale all’interno dei siti di Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "Sì sempre, a condizione che siano presenti altre zone umide naturali",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, ma solo con Valutazione di incidenza non negativa effettuata da parte dell’ente competente e che tali aree non siano vincolate dalla Misure di conservazione",
-        "is_correct": true
-      },
-      {
-        "text": "No, mai",
-        "is_correct": false
-      }
-    ]
-  },
-  "B032": {
-    "question": "A chi spettano i proventi delle sanzioni derivanti da violazioni delle norme di conservazione dei siti di Rete Natura 2000 di cui alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” e ss mm ii.?",
-    "answers": [
-      {
-        "text": "In ogni caso alla Regione",
-        "is_correct": false
-      },
-      {
-        "text": "All’Ente gestore del sito di Rete Natura 2000",
-        "is_correct": true
-      },
-      {
-        "text": "Alla Polizia provinciale che effettua la vigilanza nei siti di Rete Natura 2000",
-        "is_correct": false
-      }
-    ]
-  },
-  "B033": {
-    "question": "Le misure di conservazione (generali e specifiche) di un sito Natura 2000 valgono all’interno di un’area protetta?",
-    "answers": [
-      {
-        "text": "Sì, in ogni caso",
-        "is_correct": true
-      },
-      {
-        "text": "Sì, solo se non c’è una regolamentazione del Parco in materia",
-        "is_correct": false
-      },
-      {
-        "text": "No, all’interno del Parco vale solo la regolamentazione specifica di quest’area protetta",
-        "is_correct": false
-      }
-    ]
-  },
-  "B034": {
-    "question": "Cosa è vietato nelle zone umide naturali ed artificiali facenti parte della Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "L’utilizzo di munizioni con pallini di ferro o contenenti ferro per l’attività venatoria nelle zone umide",
-        "is_correct": false
-      },
-      {
-        "text": "L’utilizzo di bossoli di plastica o contenenti plastica per l’attività venatoria nelle zone umide",
-        "is_correct": false
-      },
-      {
-        "text": "L’utilizzo di munizioni con pallini di piombo o contenenti piombo per l’attività venatoria nelle zone umide",
-        "is_correct": true
-      }
-    ]
-  },
-  "B035": {
-    "question": "Nei siti di Rete Natura 2000, il taglio dei pioppeti in che periodo è vietato dalle misure generali di conservazione?",
-    "answers": [
-      {
-        "text": "Dal 1 aprile al 30 aprile ad eccezione di quelli autorizzati dal Comune",
-        "is_correct": false
-      },
-      {
-        "text": "Dal 15 marzo al 15 luglio, ad eccezione di quelli autorizzati dall’Ente gestore del sito",
-        "is_correct": true
-      },
-      {
-        "text": "Dal 21 marzo al 15 agosto ad eccezione di quelli autorizzati dalla polizia provinciale",
-        "is_correct": false
-      }
-    ]
-  },
-  "B036": {
-    "question": "Nelle misure generali di conservazione, nei siti di Rete Natura 2000, quale taglio è vietato?",
-    "answers": [
-      {
-        "text": "Il taglio degli individui di Farnia (Quercus robur) e di Salice (Salix), con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
-        "is_correct": false
-      },
-      {
-        "text": "Il taglio degli individui di Tiglio (Tilia) e di Leccio (Quercus ilex) con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
-        "is_correct": false
-      },
-      {
-        "text": "Il taglio degli individui di Tasso (Taxus) e di Agrifoglio (Ilex), con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
-        "is_correct": true
-      }
-    ]
-  },
-  "B037": {
-    "question": "Quale è l'obiettivo principale di Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "Mantenimento in uno stato di conservazione soddisfacente di habitat e di specie di interesse comunitario",
-        "is_correct": true
-      },
-      {
-        "text": "Impedire l'espandersi delle opere di infrastrutturazione del territorio, mantenendo gli habitat in uno stato di conservazione soddisfacente",
-        "is_correct": false
-      },
-      {
-        "text": "Tutela della flora, della fauna e mantenimento degli habitat",
-        "is_correct": false
-      }
-    ]
-  },
-  "B038": {
-    "question": "Cosa è la Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "Una rete ecologica di livello nazionale che raccoglie tutti i parchi nazionali italiani",
-        "is_correct": false
-      },
-      {
-        "text": "Una rete ecologica di livello europeo finalizzata alla tutela di specie e di habitat minacciati in un'ottica di sviluppo sostenibile",
-        "is_correct": true
-      },
-      {
-        "text": "Una rete ecologica finalizzata ad individuare zone del territorio dove impedire qualsiasi tipo di intervento antropico",
-        "is_correct": false
-      }
-    ]
-  },
-  "B039": {
-    "question": "Cosa significa il termine “habitat di specie”?",
-    "answers": [
-      {
-        "text": "L'insieme di organismi di una determinata specie",
-        "is_correct": false
-      },
-      {
-        "text": "Lo specifico ambiente, caratterizzato da determinati fattori abiotici e biotici, in cui vive la specie in una delle fasi del suo ciclo biologico",
-        "is_correct": true
-      },
-      {
-        "text": "Il rapporto che intercorre tra gli organismi viventi e l'ambiente",
-        "is_correct": false
-      }
-    ]
-  },
-  "B040": {
-    "question": "Cosa è il Piano Territoriale di un Parco regionale?",
-    "answers": [
-      {
-        "text": "Lo strumento di pianificazione comunale dell'area a parco",
-        "is_correct": false
-      },
-      {
-        "text": "Lo strumento di pianificazione dell'area a parco che regola l'assetto del territorio, dell'ambiente e degli habitat compresi nel suo perimetro ed il suo raccordo con il contesto",
-        "is_correct": true
-      },
-      {
-        "text": "Lo strumento-guida nazionale per la pianificazione territoriale delle aree a parco regionale",
-        "is_correct": false
-      }
-    ]
-  },
-  "B041": {
-    "question": "Cosa sono i Siti di Importanza Comunitaria (SIC)?",
-    "answers": [
-      {
-        "text": "Parchi e Riserve Naturali dell’Unione Europea",
-        "is_correct": false
-      },
-      {
-        "text": "Piccole aree protette del Sistema regionale dell’Emilia-Romagna",
-        "is_correct": false
-      },
-      {
-        "text": "Aree istituite dall’Unione Europea in cui conservare habitat e specie di interesse comunitario",
-        "is_correct": true
-      }
-    ]
-  },
-  "B042": {
-    "question": "Cosa sono le Zone di Protezione Speciale (ZPS)?",
-    "answers": [
-      {
-        "text": "Aree protette (Parchi e Riserve) particolarmente importanti",
-        "is_correct": false
-      },
-      {
-        "text": "Zone vincolate dalla Soprintendenza per le bellezze naturali",
-        "is_correct": false
-      },
-      {
-        "text": "Aree istituite dall’Unione Europea per la conservazione degli uccelli",
-        "is_correct": true
-      }
-    ]
-  },
-  "B043": {
-    "question": "Quali sono i siti protetti delle Direttive comunitarie 79/409 CEE concernente la conservazione degli uccelli selvatici e Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”?",
-    "answers": [
-      {
-        "text": "Zone Ramsar",
-        "is_correct": false
-      },
-      {
-        "text": "ZPS (Zone di Protezione Speciale) e SIC (Siti di Importanza Comunitaria)",
-        "is_correct": true
-      },
-      {
-        "text": "Zone a vincolo ambientale e paesaggistico",
-        "is_correct": false
-      }
-    ]
-  },
-  "B044": {
-    "question": "Quale è la principale differenza tra le aree protette ed i siti della Rete Natura 2000?",
-    "answers": [
-      {
-        "text": "Nessuna differenza, essendo tutte aree finalizzate alla conservazione della natura e della biodiversità",
-        "is_correct": false
-      },
-      {
-        "text": "Le aree protette discendono dalla Legge n. 394/1991 “Legge quadro sulle aree protette” mentre i siti della Rete Natura 2000 discendono dalle Direttive comunitarie 79/409 CEE concernente la conservazione degli uccelli selvatici e dalla Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”",
-        "is_correct": true
-      },
-      {
-        "text": "Nelle aree protette sono vietate tutte le attività dell'uomo, mentre nei siti della Rete Natura 2000 le attività sono consentite e regolamentate",
-        "is_correct": false
-      }
-    ]
-  },
-  "B045": {
-    "question": "Ai sensi della Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”, la Rete Natura 2000 da cosa è costituita?",
-    "answers": [
-      {
-        "text": "Zone di protezione speciale (ZPS) individuate ai sensi della direttiva n. 79/409/CEE concernente la conservazione degli uccelli selvatici e dai Siti di importanza comunitaria (SIC), individuati ai sensi della direttiva n. 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”",
-        "is_correct": true
-      },
-      {
-        "text": "Zone Ramsar e Aree MAB (Man and Biosphere) dell'Unesco collegate tra loro da aree di collegamento ecologico",
-        "is_correct": false
-      },
-      {
-        "text": "Oasi di Protezione faunistica",
-        "is_correct": false
-      }
-    ]
-  },
-  "B046": {
-    "question": "Le Guardie Ecologiche Volontarie possono accogliere e fornire informazioni ai visitatori dei centri visita dei parchi?",
-    "answers": [
-      {
-        "text": "Sì, se opportunamente formate e solo se in accordo con l'Ente di gestione del Parco",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, ma solo all'esterno del centro visita",
-        "is_correct": false
-      },
-      {
-        "text": "No, serve personale laureato",
-        "is_correct": false
-      }
-    ]
-  },
-  "B047": {
-    "question": "Quali sono le tipologie di misure di conservazione secondo la normativa regionale?",
-    "answers": [
-      {
-        "text": "Generali e specifiche",
-        "is_correct": true
-      },
-      {
-        "text": "Generali e particolari",
-        "is_correct": false
-      },
-      {
-        "text": "Generali e territoriali",
-        "is_correct": false
-      }
-    ]
-  },
-  "B048": {
-    "question": "Nei siti di Rete Natura 2000 quali captazioni idriche esistenti o nuove sono vietate?",
-    "answers": [
-      {
-        "text": "Quelle che non rispettano il rilascio del Deflusso Minimo Vitale nei corsi d’acqua naturali",
-        "is_correct": true
-      },
-      {
-        "text": "Quelle che prelevano a monte del sito di Rete Natura 2000",
-        "is_correct": false
-      },
-      {
-        "text": "Quelle che prelevano a valle del sito di Rete Natura 2000",
-        "is_correct": false
-      }
-    ]
-  },
-  "B049": {
-    "question": "Nei siti di Rete Natura 2000 dove sono previste le norme regolamentari?",
-    "answers": [
-      {
-        "text": "Misure generali di conservazione, misure specifiche di conservazione, piani di gestione e regolamenti di settore dei Parchi",
-        "is_correct": true
-      },
-      {
-        "text": "Unicamente nelle Misure di conservazione (generali e specifiche) dei siti di rete Natura 2000",
-        "is_correct": false
-      },
-      {
-        "text": "Nei Regolamenti di settore dei Parchi",
-        "is_correct": false
-      }
-    ]
-  },
-  "B050": {
-    "question": "E’ vietata all’interno dei siti di Rete Natura 2000 la realizzazione di nuove discariche?",
-    "answers": [
-      {
-        "text": "Sì, all’interno dei siti di Rete Natura 2000 è vietata la realizzazione di nuove discariche o di nuovi impianti di trattamento e di smaltimento di fanghi e rifiuti, nonché l’ampliamento di quelli esistenti in termini di superficie, fatte salve le discariche per inerti",
-        "is_correct": true
-      },
-      {
-        "text": "No, poiché la Rete Natura 2000 non è considerata un’area naturale protetta",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, è vietata anche all’esterno dei siti di Rete Natura 2000",
-        "is_correct": false
-      }
-    ]
-  },
-  "B051": {
-    "question": "Chi istituisce e gestisce i Paesaggi naturali e seminaturali protetti?",
-    "answers": [
-      {
-        "text": "L’Ente di Gestione per i Parchi e la Biodiversità",
-        "is_correct": true
-      },
-      {
-        "text": "La Regione Emilia-Romagna",
-        "is_correct": false
-      },
-      {
-        "text": "La Provincia di riferimento",
-        "is_correct": false
-      }
-    ]
-  },
-  "B052": {
-    "question": "Un cittadino sta accendendo un barbecue a legna (fuoco all’aperto) all’interno del perimetro di un parco regionale. Cosa verifico?",
-    "answers": [
-      {
-        "text": "Che l’area sia attrezzata allo scopo e autorizzata dall’Ente di gestione del Parco",
-        "is_correct": true
-      },
-      {
-        "text": "Non è un problema i barbecue si possono accendere ovunque",
-        "is_correct": false
-      },
-      {
-        "text": "Che ci troviamo in area contigua e che sia rispettato il periodo di “grave pericolosità”",
-        "is_correct": false
-      }
-    ]
-  },
-  "B053": {
-    "question": "La sorveglianza territoriale nelle aree protette regionali, ai sensi della L.R. n. 6/2005 e successive modifiche, da chi può essere svolta?",
-    "answers": [
-      {
-        "text": "Dai guardiaparco, dalle strutture della Polizia locale di cui alla legge regionale 24/2003, dai carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
-        "is_correct": false
-      },
-      {
-        "text": "Dai Carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
-        "is_correct": false
-      },
-      {
-        "text": "Dai guardiaparco, dalle strutture della Polizia locale di cui alla legge regionale 24/2003, dagli ufficiali ed agenti di polizia giudiziaria competenti in base alla legislazione statale e a seguito di convenzione, dai carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
-        "is_correct": true
-      }
-    ]
-  },
-  "B054": {
-    "question": "A quanto ammonta la sanzione pecuniaria per la cattura o l’uccisione di ogni capo di fauna selvatica soggetta a protezione dalla normativa di un’area protetta regionale?",
-    "answers": [
-      {
-        "text": "Da 500 a 5.000 euro",
-        "is_correct": true
-      },
-      {
-        "text": "Da 25 a 250 euro",
-        "is_correct": false
-      },
-      {
-        "text": "Da 250 a 2.500 euro",
-        "is_correct": false
-      }
-    ]
-  },
-  "B055": {
-    "question": "In un’area protetta regionale i trasgressori sono tenuti a restituire quanto eventualmente asportato, compresi gli animali abbattuti?",
-    "answers": [
-      {
-        "text": "No",
-        "is_correct": false
-      },
-      {
-        "text": "Sì",
-        "is_correct": true
-      },
-      {
-        "text": "Possono non restituirli pagando una sanzione aggiuntiva",
-        "is_correct": false
-      }
-    ]
-  },
-  "B056": {
-    "question": "All’interno di un parco regionale in quali zone è consentito esercitare l’attività venatoria?",
-    "answers": [
-      {
-        "text": "Nella zona A",
-        "is_correct": false
-      },
-      {
-        "text": "Nell’area contigua",
-        "is_correct": true
-      },
-      {
-        "text": "Nell’area contigua e nella zona C",
-        "is_correct": false
-      }
-    ]
-  },
-  "B057": {
-    "question": "In un parco regionale, le attività di smaltimento e recupero rifiuti:",
-    "answers": [
-      {
-        "text": "Sono vietate in tutte le zone del parco (A, B, C) e nell’area contigua",
-        "is_correct": true
-      },
-      {
-        "text": "Sono vietate tutte le zone del parco (A, B, C)",
-        "is_correct": false
-      },
-      {
-        "text": "Sono consentite in tutte le zone di parco",
-        "is_correct": false
-      }
-    ]
-  },
-  "B058": {
-    "question": "Cosa sono i Paesaggi Naturali e Seminaturali Protetti (PNSP)",
-    "answers": [
-      {
-        "text": "Una forma di area protetta prevista dalla Legge Regionale n.24 “Disciplina regionale sulla tutela e l’uso del territorio",
-        "is_correct": false
-      },
-      {
-        "text": "Una tipologia di area protetta prevista dalla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000",
-        "is_correct": true
-      },
-      {
-        "text": "Una forma di prima protezione di un territorio semi-antropizzato, in attesa di diventare un’area protetta vera e propria a seguito di una gestione indirizzata alla conservazione della biodiversità, come previsto dalla L.R n. 6/2005",
-        "is_correct": false
-      }
-    ]
-  },
-  "B059": {
-    "question": "In caso di progetti di impianti eolici da realizzarsi all’esterno di un sito Natura 2000, ma all’interno di una fascia di 5 km dal perimetro del sito, è obbligatorio effettuare la valutazione di incidenza?",
-    "answers": [
-      {
-        "text": "No, è sempre vietata trattandosi di un’area protetta",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, è sempre consentita su tutta la superficie dell’area protetta",
-        "is_correct": false
-      },
-      {
-        "text": "E’ consentita, ma può essere eventualmente limitata o preclusa in alcune porzioni del PNSP in osservanza degli obiettivi gestionali specifici e delle misure di sostegno per la conservazione delle risorse naturali, contenuti nell’atto istitutivo",
-        "is_correct": true
-      },
-      {
-        "text": "No, essendo l’impianto eolico, previsto all’esterno del sito, non è soggetto a valutazione di incidenza",
-        "is_correct": false
-      },
-      {
-        "text": "Effettuare la valutazione di incidenza, in questo caso, è a discrezione dell’Ente Gestore",
-        "is_correct": false
-      },
-      {
-        "text": "Sì, è obbligatorio effettuare la valutazione di incidenza attenendosi, in particolare per i Chirotteri, alle indicazioni adottate dal Consiglio d’Europa con la risoluzione 5.6 “Wind Turbines and Bat Populations” del 2006",
-        "is_correct": true
-      }
-    ]
-  },
-  "B060": {
-    "question": "Il Parere di conformità è uno strumento di controllo per il governo dei Parchi. In quali casi viene rilasciato dall’Ente di Gestione del Parco?",
-    "answers": [
-      {
-        "text": "Il Parere di conformità viene rilasciato per progetti, interventi, impianti, opere e attività che comportino trasformazioni ammissibili all’assetto ambientale e paesaggistico entro il perimetro del Parco e dell’area contigua",
-        "is_correct": false
-      },
-      {
-        "text": "Il Parere di conformità viene rilasciato per Piani, Regolamenti e loro varianti, degli Enti pubblici territorialmente interessati dal Parco, unitamente ai programmi relativi ad interventi, impianti ed opere da realizzare all’interno del territorio del Parco e nelle aree ad esso contigue, al di fuori delle zone D e valuta la conformità rispetto alle norme di salvaguardia della legge istitutiva, al Piano territoriale del Parco e al relativo Regolamento",
-        "is_correct": true
-      },
-      {
-        "text": "Il Parere di conformità deve valutare la conformità degli interventi e delle opere previste nel territorio del Parco con quanto previsto dal Piano Territoriale di Coordinamento Provinciale (PTCP).",
-        "is_correct": false
-      }
-    ]
-  },
-  "B061": {
-    "question": "Il nulla osta è un ulteriore strumento di controllo per il governo dei Parchi. In quali casi viene rilasciato dall’Ente di Gestione del Parco?",
-    "answers": [
-      {
-        "text": "Il Nulla osta viene rilasciato per Piani, Regolamenti e loro varianti, degli Enti pubblici territorialmente interessati dal Parco, unitamente ai programmi relativi ad interventi, impianti ed opere da realizzare all’interno del territorio del Parco e nelle aree ad esso contigue, al di fuori delle zone D e valuta la conformità rispetto alle norme di salvaguardia della legge istitutiva, al Piano territoriale del Parco e al relativo Regolamento",
-        "is_correct": false
-      },
-      {
-        "text": "Il Nulla osta viene rilasciato per progetti per interventi, impianti, opere e attività che comportino trasformazioni ammissibili all’assetto ambientale e paesaggistico entro il perimetro del Parco e dell’Area contigua, dopo aver verificato la conformità rispetto alle norme di salvaguardia della legge istitutiva, le disposizioni del Piano e del Regolamento",
-        "is_correct": true
-      },
-      {
-        "text": "Il Nulla Osta viene rilasciato dopo aver verificato la coerenza delle opere e degli interventi con le Norme Tecniche di Attuazione del Piano Territoriale di Coordinamento Provinciale (PTCP)",
-        "is_correct": false
-      }
-    ]
-  },
-  "B062": {
-    "question": "Il Parere di conformità e il Nulla osta sono strumenti di controllo per il governo di Aree protette",
-    "answers": [
-      {
-        "text": "Sono strumenti esclusivi, previsti dalla L.R. 6/2005, per il governo dei Parchi regionali e interregionali.",
-        "is_correct": false
-      },
-      {
-        "text": "Sono strumenti previsti dalla L.R. 6/2005 per tutte le tipologie di Aree Protette",
-        "is_correct": false
-      },
-      {
-        "text": "Sono strumenti previsti dalla L.R. 6/2005 per il governo dei Parchi e delle Riserve Naturali",
-        "is_correct": true
-      }
-    ]
-  },
-  "C001": {
-    "question": "Quante felci sono presenti nell'elenco delle specie protette dalla Legge regionale n. 2/1977 “Provvedimenti per la salvaguardia della flora regionale – istituzione di un fondo regionale per la conservazione della natura – disciplina della raccolta dei prodotti nel sottobosco”?"
+  "data" : {
+    "A001": {
+      "question": "Per potere effettuare il servizio volontario di vigilanza ecologica è necessario essere in possesso del decreto di approvazione prefettizio previsto ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza?",
+      "answers": [
+        {
+          "text": "Sì, sempre",
+          "is_correct": true
+        },
+        {
+          "text": "Sì, solo quando si voglia fare uso del porto d'armi",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": false
+        }
+      ]
     },
-    "answers": [
-      {
-        "text": "Un genere",
-        "is_correct": true
-      },
-      {
-        "text": "Più di due",
-        "is_correct": false
-      },
-      {
-        "text": "Nessuno",
-        "is_correct": false
-      }
-    ],
+    "A002": {
+      "question": "Di quali documenti deve essere in possesso la Guardia Ecologica Volontaria per poter procedere all'accertamento di una violazione?",
+      "answers": [
+        {
+          "text": "Del solo tesserino di riconoscimento",
+          "is_correct": false
+        },
+        {
+          "text": "E’ sufficiente il solo decreto valido rilasciato dalla Prefettura",
+          "is_correct": false
+        },
+        {
+          "text": "Sono necessari sia l’atto di nomina rilasciato dalla Regione Emilia-Romagna che il decreto prefettizio valido",
+          "is_correct": true
+        }
+      ]
+    },
+    "A003": {
+      "question": "L'incarico di Guardia Ecologica Volontaria può essere sospeso?",
+      "answers": [
+        {
+          "text": "In caso non venga indossata la divisa o il bracciale durante il servizio",
+          "is_correct": false
+        },
+        {
+          "text": "In caso di accertata irregolarità nello svolgimento dei compiti assegnati",
+          "is_correct": true
+        },
+        {
+          "text": "In caso di reiterati errori nella compilazione dei verbali",
+          "is_correct": false
+        }
+      ]
+    },
+    "A004": {
+      "question": "Nell'espletamento del proprio servizio volontario di vigilanza ecologica le Guardie Ecologiche Volontarie possono essere armate?",
+      "answers": [
+        {
+          "text": "Sì, purchè in possesso di regolare porto d'armi",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, per alcuni particolari servizi di vigilanza, purchè in possesso di regolare porto d'armi",
+          "is_correct": false
+        },
+        {
+          "text": "No, non possono mai essere armate, anche se in possesso di porto d'armi",
+          "is_correct": true
+        }
+      ]
+    },
+    "A005": {
+      "question": "Secondo quanto previsto dalla Legge regionale istitutiva del servizio volontario di vigilanza ecologica, la Guardia Ecologica Volontaria quando può svolgere la propria attività?",
+      "answers": [
+        {
+          "text": "Organizzandosi anche individualmente",
+          "is_correct": false
+        },
+        {
+          "text": "Solo nell'ambito di ordini di servizio emanati dall'Ente con cui il Raggruppamento ha stipulato apposita convenzione",
+          "is_correct": false
+        },
+        {
+          "text": "Nel contesto del Raggruppamento provinciale, struttura associativa obbligatoria delle Guardie Ecologiche Volontarie",
+          "is_correct": true
+        }
+      ]
+    },
+    "A006": {
+      "question": "L'atto di nomina a Guardia Ecologica Volontaria da chi è disposto?",
+      "answers": [
+        {
+          "text": "Da ARPAE ",
+          "is_correct": false
+        },
+        {
+          "text": "Dal Prefetto della Provincia di appartenenza",
+          "is_correct": false
+        },
+        {
+          "text": "Dalla Regione",
+          "is_correct": true
+        }
+      ]
+    },
+    "A007": {
+      "question": "Quali sono i compiti delle Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "Accertare violazioni comportanti l'applicazione di sanzioni pecuniarie, di disposizioni di legge o di regolamento nei limiti del proprio incarico",
+          "is_correct": false
+        },
+        {
+          "text": "Accertare violazioni comportanti l'applicazione di sanzioni pecuniarie, di disposizioni di legge o di regolamento, nonchè di provvedimenti istitutivi di parchi e riserve, nei limiti dell'incarico e nell’ambito delle convenzioni stipulate con gli Enti titolari di competenze in materia di ambiente e tutela del patrimonio naturale",
+          "is_correct": true
+        },
+        {
+          "text": "Accertare, nell'ambito dell'incarico, reati comportanti l'applicazione delle pene dell'ammenda e dell'arresto",
+          "is_correct": false
+        }
+      ]
+    },
+    "A008": {
+      "question": "Da quale Ente sono nominate le Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "Dalla Prefettura competente territorialmente",
+          "is_correct": false
+        },
+        {
+          "text": "Dalla Regione",
+          "is_correct": true
+        },
+        {
+          "text": "Dal Sindaco, solo dopo avere prestato giuramento",
+          "is_correct": false
+        }
+      ]
+    },
+    "A009": {
+      "question": "In caso di accertata violazione, quale è il termine entro il quale il trasgressore può inoltrare scritti difensivi e chiedere di essere sentito dall'Autorità competente?",
+      "answers": [
+        {
+          "text": "30 giorni",
+          "is_correct": true
+        },
+        {
+          "text": "60 giorni",
+          "is_correct": false
+        },
+        {
+          "text": "90 giorni",
+          "is_correct": false
+        }
+      ]
+    },
+    "A010": {
+      "question": "A cosa è limitato il potere di accertamento delle Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "A tutte le normative ambientali che prevedono le sole sanzioni amministrative",
+          "is_correct": false
+        },
+        {
+          "text": "A tutte le normative ambientali di emanazione regionale",
+          "is_correct": false
+        },
+        {
+          "text": "A tutte le normative che prevedono le sole sanzioni amministrative e che sono contenute nell'atto di nomina",
+          "is_correct": true
+        }
+      ]
+    },
+    "A011": {
+      "question": "Quali sono i requisiti previsti in termini di servizio per il rinnovo del Decreto prefettizio di una Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Almeno 36 ore di attività nell'ultimo anno o 192 ore negli ultimi due anni",
+          "is_correct": false
+        },
+        {
+          "text": "Almeno 96 ore di attività nell'ultimo anno o 192 ore negli ultimi due anni",
+          "is_correct": true
+        },
+        {
+          "text": "Almeno 192 ore di attività nell'ultimo anno o 96 ore negli ultimi due anni",
+          "is_correct": false
+        }
+      ]
+    },
+    "A012": {
+      "question": "La Guardia Ecologica Volontaria può esercitare il proprio servizio volontario di vigilanza ecologica al di fuori del programma annuale delle attività e delle convenzioni stipulate tra il Raggruppamento e gli enti o gli organismi pubblici titolari di competenze in materie di ambiente e di tutela del patrimonio naturale?",
+      "answers": [
+        {
+          "text": "Sì, sempre",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, purchè in possesso dell’atto di nomina e del decreto prefettizio in corso di validità",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": true
+        }
+      ]
+    },
+    "A013": {
+      "question": "Ai fini dell'accertamento delle violazioni delle norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento, come può procedere la Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "All'identificazione del trasgressore",
+          "is_correct": true
+        },
+        {
+          "text": "All'ispezione di qualunque luogo",
+          "is_correct": false
+        },
+        {
+          "text": "All'ispezione e alla perquisizione a condizione che sia stato precedentemente identificato il trasgressore",
+          "is_correct": false
+        }
+      ]
+    },
+    "A014": {
+      "question": "Durante l’esercizio delle attività previste dall’art. 3 della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, la Guardia Ecologica Volontaria può procedere all’ispezione di una dimora privata?",
+      "answers": [
+        {
+          "text": "Sì, qualora le circostanze lo richiedano",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, solo se la violazione per la quale è necessaria l’ispezione rientra nei propri poteri di accertamento",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": true
+        }
+      ]
+    },
+    "A015": {
+      "question": "Da chi è approvato il Regolamento di servizio delle Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "Dall'Autorità di Pubblica Sicurezza",
+          "is_correct": true
+        },
+        {
+          "text": "Dal Prefetto della Provincia di appartenenza",
+          "is_correct": false
+        },
+        {
+          "text": "Dal Presidente della Regione",
+          "is_correct": false
+        }
+      ]
+    },
+    "A016": {
+      "question": "Quale è il termine previsto dalla Legge regionale n. 23/1989 di legge il quale deve essere inviato il verbale di accertamento all’Autorità competente ad emanare l’ordinanza/ingiunzione?",
+      "answers": [
+        {
+          "text": "Entro 36 ore",
+          "is_correct": false
+        },
+        {
+          "text": "Entro 48 ore",
+          "is_correct": true
+        },
+        {
+          "text": "Entro 12 ore",
+          "is_correct": false
+        }
+      ]
+    },
+    "A017": {
+      "question": "Nei compiti di accertamento previsti dall'articolo 3, lettera b), della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, cosa devono fare le Guardie Ecologiche Volontarie qualora accertino una violazione delle normative conferite con il proprio atto di nomina?",
+      "answers": [
+        {
+          "text": "Redigere una dettagliata relazione di servizio",
+          "is_correct": false
+        },
+        {
+          "text": "Informare il Comando dei Carabinieri o altro Ufficio di Polizia, chiedendo il loro intervento",
+          "is_correct": false
+        },
+        {
+          "text": "Redigere un processo verbale di accertamento da contestare, quando possibile, immediatamente al trasgressore",
+          "is_correct": true
+        }
+      ]
+    },
+    "A018": {
+      "question": "Quale Ente approva il corso di formazione per l’idoneità alla nomina di Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Provincia ",
+          "is_correct": false
+        },
+        {
+          "text": "Regione Emilia-Romagna",
+          "is_correct": true
+        },
+        {
+          "text": "Prefettura",
+          "is_correct": false
+        }
+      ]
+    },
+    "A019": {
+      "question": "Che cosa contiene l'atto di nomina di una Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Le norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento",
+          "is_correct": true
+        },
+        {
+          "text": "Le norme che prevedono sanzioni pecuniarie di tutte le leggi in materie di ambiente e di tutela del patrimonio naturale",
+          "is_correct": false
+        },
+        {
+          "text": "L’approvazione da parte del Prefetto ai sensi dell’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza",
+          "is_correct": false
+        }
+      ]
+    },
+    "A020": {
+      "question": "A quale Ente o Autorità deve essere inviato, nei termini di legge, il verbale di accertamento?",
+      "answers": [
+        {
+          "text": "Alla Provincia",
+          "is_correct": false
+        },
+        {
+          "text": "All’Ente o all’organismo pubblico competente",
+          "is_correct": false
+        },
+        {
+          "text": "Alla Prefettura",
+          "is_correct": false
+        }
+      ]
+    },
+    "A021": {
+      "question": "Quali violazioni può accertare la Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Tutte le violazioni previste nel programma di attività del proprio Raggruppamento",
+          "is_correct": false
+        },
+        {
+          "text": "Tutte violazioni previste dalle disposizioni di legge in materia di protezione dell'ambiente o di provvedimenti istitutivi di parchi e riserve",
+          "is_correct": false
+        },
+        {
+          "text": "Tutte le violazioni previste dalle disposizioni di legge o dai regolamenti in materia di tutela ambientale e del patrimonio naturale per cui gli sono stati conferiti i relativi poteri di accertamento con il proprio atto di nomina",
+          "is_correct": true
+        }
+      ]
+    },
+    "A022": {
+      "question": "Quale Ente può procedere alla revoca dell'atto di nomina?",
+      "answers": [
+        {
+          "text": "ARPAE",
+          "is_correct": false
+        },
+        {
+          "text": "Prefettura",
+          "is_correct": false
+        },
+        {
+          "text": "Regione Emilia-Romagna",
+          "is_correct": true
+        }
+      ]
+    },
+    "A023": {
+      "question": "A chi deve essere contestata la violazione?",
+      "answers": [
+        {
+          "text": "Al trasgressore",
+          "is_correct": false
+        },
+        {
+          "text": "All'obbligato in solido",
+          "is_correct": false
+        },
+        {
+          "text": "Al trasgressore e all'eventuale obbligato in solido",
+          "is_correct": true
+        }
+      ]
+    },
+    "A024": {
+      "question": "A chi devono essere inviati eventuali scritti difensivi o istanza in opposizione alle sanzioni amministrative accertate dalle Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "Al Tribunale Amministrativo Regionale",
+          "is_correct": false
+        },
+        {
+          "text": "All'Organo competente ad emettere l'ordinanza di ingiunzione",
+          "is_correct": true
+        },
+        {
+          "text": "Al Prefetto",
+          "is_correct": false
+        }
+      ]
+    },
+    "A025": {
+      "question": "Quali sono le disposizioni previste dall'art. 16, Legge n. 689/1981, circa il pagamento in misura ridotta?",
+      "answers": [
+        {
+          "text": "L'importo è stabilito calcolando l'importo massimo o il doppio del minimo se più favorevole",
+          "is_correct": false
+        },
+        {
+          "text": "L'importo è stabilito calcolando il doppio dell'importo massimo o al doppio dell'importo minimo se più favorevole",
+          "is_correct": false
+        },
+        {
+          "text": "L'importo è stabilito calcolando il terzo dell'importo massimo o al doppio dell'importo minimo se più favorevole",
+          "is_correct": true
+        }
+      ]
+    },
+    "A026": {
+      "question": "Entro quanto tempo deve essere contestata la violazione al trasgressore?",
+      "answers": [
+        {
+          "text": "Immediatamente, qualora possibile",
+          "is_correct": true
+        },
+        {
+          "text": "Entro 48 ore",
+          "is_correct": false
+        },
+        {
+          "text": "Può essere contestata solo se il trasgressore non si oppone all’accertamento della violazione",
+          "is_correct": false
+        }
+      ]
+    },
+    "A027": {
+      "question": "Qualora non fosse possibile contestare immediatamente la violazione, quali sono i termini di legge entro i quali la notifica deve essere effettuata ai trasgressori residenti sul territorio italiano?",
+      "answers": [
+        {
+          "text": "Entro 48 ore",
+          "is_correct": false
+        },
+        {
+          "text": "Entro 90 giorni",
+          "is_correct": true
+        },
+        {
+          "text": "Entro 360 giorni",
+          "is_correct": false
+        }
+      ]
+    },
+    "A028": {
+      "question": "Quali sono i requisiti per costituire e rendere operativo un Raggruppamento provinciale?",
+      "answers": [
+        {
+          "text": "La dotazione di uno Statuto e di un regolamento di servizio, l’iscrizione al Registro regionale del volontariato e l’adesione di almeno 30 volontari dotati di atto di nomina e di valido decreto prefettizio",
+          "is_correct": false
+        },
+        {
+          "text": "La dotazione di uno Statuto e di un regolamento di servizio, l’iscrizione al Registro regionale del volontariato, l’adesione al programma annuale delle attività, la stipula della convenzione con ARPAE e l’adesione di almeno 30 volontari dotati di atto di nomina e di valido decreto prefettizio",
+          "is_correct": true
+        },
+        {
+          "text": "No, non è richiesto nessuno requisito formale poiché il Raggruppamento gode di propria autonomia in quanto associazione di volontariato",
+          "is_correct": false
+        }
+      ]
+    },
+    "A029": {
+      "question": "Che cos'è l'atto di nomina?",
+      "answers": [
+        {
+          "text": "Il provvedimento previsto dalla Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” che conferisce i poteri di accertamento di ogni singola Guardia Ecologica Volontaria",
+          "is_correct": true
+        },
+        {
+          "text": "Il provvedimento che conferisce alle Guardie Ecologiche Volontarie la qualifica di Pubblico Ufficiale",
+          "is_correct": false
+        },
+        {
+          "text": "Il provvedimento che conferisce alle Guardie Ecologiche Volontarie la qualifica di Guardia Giurata Particolare",
+          "is_correct": false
+        }
+      ]
+    },
+    "A030": {
+      "question": "In che modo le Guardie Ecologiche Volontarie svolgono la loro attività?",
+      "answers": [
+        {
+          "text": "Di propria iniziativa, qualora lo ritengano opportuno",
+          "is_correct": false
+        },
+        {
+          "text": "In modo coordinato organizzandosi in Raggruppamenti",
+          "is_correct": true
+        },
+        {
+          "text": "Secondo le direttive impartite dall'organo di Pubblica Sicurezza ",
+          "is_correct": false
+        }
+      ]
+    },
+    "A031": {
+      "question": "Nell’accertare una violazione, come si deve comportare la Guardia Ecologica Volontaria, circa il pagamento della sanzione amministrativa?",
+      "answers": [
+        {
+          "text": "Possono riscuotere direttamente la cifra dal trasgressore, se questi è d'accordo",
+          "is_correct": false
+        },
+        {
+          "text": "Procedono a redigere il verbale e possono pattuire con il trasgressore l'importo minimo della sanzione, applicando il pagamento in misura ridotta",
+          "is_correct": false
+        },
+        {
+          "text": "Procedono a redigere il verbale di accertamento indicando quanto disposto dalle normative vigenti circa la relativa sanzione prevista",
+          "is_correct": true
+        }
+      ]
+    },
+    "A032": {
+      "question": "Le Guardie Ecologiche Volontarie possono svolgere la loro attività armate?",
+      "answers": [
+        {
+          "text": "Sì, ma solo se autorizzati dalla Prefettura",
+          "is_correct": false
+        },
+        {
+          "text": "Solo per servizi particolarmente complessi e pericolosi",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": true
+        }
+      ]
+    },
+    "A033": {
+      "question": "Le Guardie Ecologiche Volontarie possono eseguire una perquisizione personale?",
+      "answers": [
+        {
+          "text": "Sì, sempre",
+          "is_correct": false
+        },
+        {
+          "text": "Solo in presenza di testimoni e qualora sia richiesto dalle circostanze",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": true
+        }
+      ]
+    },
+    "A034": {
+      "question": "Le Guardie Ecologiche Volontarie, nell'esercizio delle loro funzioni ed in presenza di un illecito, possono procedere al sequestro?",
+      "answers": [
+        {
+          "text": "No, mai",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, solo quando lo ritengano opportuno",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, quando la legge lo preveda espressamente",
+          "is_correct": true
+        }
+      ]
+    },
+    "A035": {
+      "question": "Di cosa deve essere in possesso la Guardia Ecologica Volontaria per svolgere i compiti previsti dall’art. 3, della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”?",
+      "answers": [
+        {
+          "text": "Dell’atto di nomina e del decreto prefettizio valido",
+          "is_correct": true
+        },
+        {
+          "text": "Del solo atto di nomina",
+          "is_correct": false
+        },
+        {
+          "text": "Del solo decreto prefettizio valido",
+          "is_correct": false
+        }
+      ]
+    },
+    "A036": {
+      "question": "Quale legge regionale istituisce la figura della Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Legge Regionale n. 32/1988",
+          "is_correct": false
+        },
+        {
+          "text": "Legge Regionale n. 23/1989",
+          "is_correct": true
+        },
+        {
+          "text": "Legge Regionale n. 53/1989",
+          "is_correct": false
+        }
+      ]
+    },
+    "A037": {
+      "question": "A che cosa è subordinata l’efficacia della nomina a Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "Alla Legge Regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” che prevede la nomina da parte di ARPAE e al giuramento dinnanzi al Prefetto o a un funzionario da questi delegato ai sensi dell'art. 250 del Regio Decreto 6 maggio 1940, n. 635 “Approvazione del Regolamento per l’esecuzione del Testo Unico 18 giugno 1931, n. 773 delle Leggi di Pubblica Sicurezza ",
+          "is_correct": false
+        },
+        {
+          "text": "All’approvazione del Prefetto ai sensi dell’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza 18 giugno 1931, n. 773 e alla prestazione del giuramento dinnanzi al Prefetto o ad un funzionario da questi delegato ai sensi dell’art. 250 del Regio Decreto 6 maggio 1940, n. 635 “Approvazione del Regolamento per l’esecuzione del Testo Unico 18 giugno 1931, n. 773 delle Leggi di Pubblica Sicurezza”",
+          "is_correct": true
+        },
+        {
+          "text": "Dalla Giunta Regionale in base all’articolo 14 della Legge regionale 24 gennaio 1977, n. 2 previa approvazione del Prefetto ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza 18 giugno 1931, n. 773",
+          "is_correct": false
+        }
+      ]
+    },
+    "A038": {
+      "question": "Durante lo svolgimento dei compiti previsti dall'articolo 3, comma 1, lettera b) della Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica”, come si deve comportare la Guardia Ecologica Volontaria nel caso accerti un'infrazione che prevede una sanzione amministrativa pecuniaria per la cui violazione le è stato conferito il potere di accertamento?",
+      "answers": [
+        {
+          "text": "La GEV deve redigere una dettagliata relazione di servizio da inviare, se possibile immediatamente, alla Prefettura",
+          "is_correct": false
+        },
+        {
+          "text": "La GEV deve redigere un processo verbale di accertamento da contestare, se possibile immediatamente, al trasgressore",
+          "is_correct": true
+        },
+        {
+          "text": "La GEV deve informare, se possibile immediatamente, il più vicino Comando dei Carabinieri o altro ufficio di Polizia, chiedendo il loro intervento",
+          "is_correct": false
+        }
+      ]
+    },
+    "A039": {
+      "question": "La Legge n. 689/81 “Modifiche al sistema penale” prevede che la violazione debba essere contestata al trasgressore e all’eventuale responsabile in solido. Entro quanto tempo ciò deve avvenire?",
+      "answers": [
+        {
+          "text": "Quando possibile, immediatamente",
+          "is_correct": true
+        },
+        {
+          "text": "Entro 24 ore",
+          "is_correct": false
+        },
+        {
+          "text": "Entro 48 ore",
+          "is_correct": false
+        }
+      ]
+    },
+    "A040": {
+      "question": "Nella compilazione del verbale la voce “obbligato in solido” cosa significa?",
+      "answers": [
+        {
+          "text": "Persona che ha commesso la trasgressione",
+          "is_correct": false
+        },
+        {
+          "text": "Persona che condivide le stesse responsabilità giuridiche del trasgressore",
+          "is_correct": true
+        },
+        {
+          "text": "Persona obbligata a consegnare il mezzo usato per trasgredire",
+          "is_correct": false
+        }
+      ]
+    },
+    "A041": {
+      "question": "In quale norma vengono definiti i compiti specifici che ciascuna Guardia Ecologica Volontaria è chiamata a svolgere?",
+      "answers": [
+        {
+          "text": "L’articolo 6, comma 2, della Legge Regionale 3 luglio 1989, n. 23",
+          "is_correct": true
+        },
+        {
+          "text": "L’articolo 10, comma 2, della Legge Regionale 17 febbraio 2005, n. 6",
+          "is_correct": false
+        },
+        {
+          "text": "L’articolo 14 della Legge Regionale 24 gennaio 1977, n.2",
+          "is_correct": false
+        }
+      ]
+    },
+    "A042": {
+      "question": "Per espletare l'attività di Guardia Ecologica Volontaria è necessario il decreto di approvazione prefettizio ai sensi dell'art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza approvato con Regio Decreto 18 giugno 1931 n.773?",
+      "answers": [
+        {
+          "text": "Sì, sempre",
+          "is_correct": true
+        },
+        {
+          "text": "Solo qualora si voglia fare uso del porto d'armi",
+          "is_correct": false
+        },
+        {
+          "text": "No, mai",
+          "is_correct": false
+        }
+      ]
+    },
+    "A043": {
+      "question": "Il trasgressore, al quale sia stata contestata immediatamente, ovvero notificata nei termini previsti, una violazione amministrativa, entro quanto tempo ha la possibilità di presentare scritti difensivi e chiedere di essere sentito dall'Autorità competente?",
+      "answers": [
+        {
+          "text": "30 giorni",
+          "is_correct": true
+        },
+        {
+          "text": "60 giorni",
+          "is_correct": false
+        },
+        {
+          "text": "90 giorni",
+          "is_correct": false
+        }
+      ]
+    },
+    "A044": {
+      "question": "Chi dispone l’atto di nomina a Guardia Ecologica Volontaria?",
+      "answers": [
+        {
+          "text": "La Provincia",
+          "is_correct": false
+        },
+        {
+          "text": "La Regione",
+          "is_correct": true
+        },
+        {
+          "text": "ARPAE",
+          "is_correct": false
+        }
+      ]
+    },
+    "A045": {
+      "question": "Qual è l’iter per poter svolgere le attività previste dall'art. 3, della Legge Regionale n. 23/1989 “Disciplina del Servizio Volontario di Vigilanza Ecologica”?",
+      "answers": [
+        {
+          "text": "Frequentare un corso di formazione, superare l'esame di idoneità ed essere in possesso dell’atto di nomina rilasciato dal Sindaco",
+          "is_correct": false
+        },
+        {
+          "text": "Frequentare un corso di formazione, superare l'esame di idoneità, essere in possesso dell’atto di nomina e prestare giuramento davanti al Prefetto",
+          "is_correct": false
+        },
+        {
+          "text": "Frequentare un corso di formazione, superare l'esame di idoneità, essere in possesso della nomina rilasciata dalla Regione e del Decreto rilasciato dal Prefetto dopo il giuramento",
+          "is_correct": true
+        }
+      ]
+    },
+    "A046": {
+      "question": "Le Guardie Ecologiche Volontarie possono procedere con gli atti di accertamento di cui all'art. 13 della Legge n. 689/1981?",
+      "answers": [
+        {
+          "text": "Sì, ma per l'accertamento delle violazioni di competenza non possono procedere ad ispezioni ed a rilievi fotografici",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, per l'accertamento delle violazioni di competenza si possono assumere informazioni e procedere ad ispezioni di cose e di luoghi diversi dalla privata dimora, a rilievi segnaletici, descrittivi e fotografici e ad ogni altra operazione tecnica",
+          "is_correct": true
+        },
+        {
+          "text": "Sì, per l'accertamento delle violazioni di competenza si può procedere ad ispezioni e a rilievi segnalateci descrittivi e fotografici anche nella privata dimora",
+          "is_correct": false
+        }
+      ]
+    },
+    "A047": {
+      "question": "Le Guardie Ecologiche Volontarie possono svolgere la loro attività liberamente?",
+      "answers": [
+        {
+          "text": "Sì, le Guardie Ecologiche Volontarie possono svolgere liberamente la loro attività purchè nell'ambito dei programmi previsti dalla Legge regionale n. 23/1989 “Disciplina del servizio volontario di vigilanza ecologica” e concordati annualmente",
+          "is_correct": false
+        },
+        {
+          "text": "No, le Guardie Ecologiche Volontarie devono svolgere la loro attività solo se organizzate nei Raggruppamenti, nell'ambito dei programmi stabiliti e delle convenzioni stipulate con gli enti aventi competenza in materia ambientale",
+          "is_correct": true
+        },
+        {
+          "text": "No, le Guardie Ecologiche Volontarie devono associarsi ai Raggruppamenti e solo dopo posso svolgere liberamente la loro attività",
+          "is_correct": false
+        }
+      ]
+    },
+    "A048": {
+      "question": "Quale è il numero minimo necessario di volontari, in possesso dell’atto di nomina, per costituire un Raggruppamento di Guardie Ecologiche Volontarie?",
+      "answers": [
+        {
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "text": "30",
+          "is_correct": true
+        },
+        {
+          "text": "40",
+          "is_correct": false
+        }
+      ]
+    },
+    "A049": {
+      "question": "Quale norma definisce i compiti specifici che ciascuna Guardia Ecologica Volontaria è chiamata a svolgere?",
+      "answers": [
+        {
+          "text": "L’articolo 6, comma 2, della Legge Regionale 3 luglio 1989, n. 23",
+          "is_correct": true
+        },
+        {
+          "text": "L’articolo 25, comma 2, della Legge Regionale 17 febbraio 2005, n. 6",
+          "is_correct": false
+        },
+        {
+          "text": "L’articolo 14, comma 1, della Legge Regionale 24 gennaio 1977, n. 2",
+          "is_correct": false
+        }
+      ]
+    },
+    "A050": {
+      "question": "Quando la Guardia Ecologica Volontaria in servizio accerta una violazione comportante l'applicazione di sanzioni amministrative pecuniarie previste nel proprio atto di nomina, come deve procedere?",
+      "answers": [
+        {
+          "text": "La Guardia Ecologica Volontaria deve predisporre una lettera di segnalazione da inviare agli Enti competenti",
+          "is_correct": false
+        },
+        {
+          "text": "La Guardia Ecologica Volontaria deve inviare una segnalazione dettagliata e puntuale agli organi di Polizia",
+          "is_correct": false
+        },
+        {
+          "text": "La Guardia Ecologica Volontaria deve redigere un processo verbale di accertamento",
+          "is_correct": true
+        }
+      ]
+    },
+    "A051": {
+      "question": "La Guardia Ecologica Volontaria può effettuare un sequestro?",
+      "answers": [
+        {
+          "text": "Sì, può sequestrare qualsiasi cosa se ha visto commettere un illecito od un reato",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, ma esclusivamente un sequestro amministrativo del prodotto e dei mezzi della violazione che possono formare oggetto di confisca amministrativa",
+          "is_correct": true
+        },
+        {
+          "text": "No, deve fare intervenire la Polizia Giudiziaria",
+          "is_correct": false
+        }
+      ]
+    },
+    "A052": {
+      "question": "Che cosa prevede l’art. 138 del Testo Unico delle Leggi di Pubblica Sicurezza?",
+      "answers": [
+        {
+          "text": "I requisiti che devono possedere le Guardie Giurate Particolari",
+          "is_correct": true
+        },
+        {
+          "text": "Le norme che prevedono sanzioni pecuniarie per la cui violazione viene conferito il potere di accertamento",
+          "is_correct": false
+        },
+        {
+          "text": "I compiti delle Guardie Ecologiche Volontarie ",
+          "is_correct": false
+        }
+      ]
+    },
+    "A053": {
+      "question": "La Guardia Ecologica Volontaria può sempre e in qualsiasi momento accertare le violazioni previste dalle norme presenti nel proprio atto di nomina?",
+      "answers": [
+        {
+          "text": "No, la Guardia Ecologica Volontaria può accertare una violazione solo nell’ambito di convenzioni stipulate con gli enti e/o gli organismi titolari delle funzioni e solo all’interno di servizi coordinati e autorizzati dal Raggruppamento",
+          "is_correct": true
+        },
+        {
+          "text": "No, la Guardia Ecologica Volontaria può accertare una violazione solo all’interno di servizi coordinati e autorizzati dal Raggruppamento",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, sempre purchè questa sia ricompresa tra i poteri di accertamento presenti nell’atto di nomina ",
+          "is_correct": false
+        }
+      ]
+    },
+    "A054": {
+      "question": "Il Regolamento di Servizio di cui si deve dotare un Raggruppamento da chi deve essere approvato?",
+      "answers": [
+        {
+          "text": "Dal Raggruppamento stesso",
+          "is_correct": false
+        },
+        {
+          "text": "Dall’Autorità di Pubblica Sicurezza",
+          "is_correct": true
+        },
+        {
+          "text": "Dalla Regione Emilia-Romagna",
+          "is_correct": false
+        }
+      ]
+    },
+    "A055": {
+      "question": "Cosa deve contenere obbligatoriamente un processo verbale di accertamento?",
+      "answers": [
+        {
+          "text": "Il verbale di accertamento deve contenere l’indicazione della data, ora e luogo dell’accertamento, la descrizione succinta del fatto, l’indicazione di eventuali responsabili in solido ai sensi dell’art. 6 della legge statale, la menzione della facoltà di pagamento in forma ridotta con l’indicazione del relativo importo e delle modalità di pagamento",
+          "is_correct": false
+        },
+        {
+          "text": "Tutti gli elementi fondamentali previsti dall’art. 8 della Legge regionale 28 aprile 1984, n. 21 Disciplina dell’Applicazione delle sanzioni amministrative di competenza regionale",
+          "is_correct": true
+        },
+        {
+          "text": "Il verbale di accertamento può essere redatto su qualsiasi supporto cartaceo e oltre ad una descrizione succinta dei fatti non contiene elementi obbligatori previsti dalla normativa vigente",
+          "is_correct": false
+        }
+      ]
+    },
+    "B001": {
+      "question": "Ai sensi della normativa vigente, qual è la definizione di parco regionale?",
+      "answers": [
+        {
+          "text": "Un'area protetta comprendente ambienti naturali o in corso di naturalizzazione di limitata estensione, inseriti in ambiti territoriali caratterizzati da intense attività antropiche, organizzata in modo da garantire la conservazione, il restauro, la ricostituzione degli ambienti degradati ai fini della conservazione delle specie animali e vegetali",
+          "is_correct": false
+        },
+        {
+          "text": "Un'area naturale protetta costituita da sistemi territoriali che, per valori naturali, scientifici, storico culturali e paesaggistici di particolare interesse nelle loro caratteristiche complessive, organizzata in modo unitario avendo riguardo alle esigenze di conservazione, riqualificazione e valorizzazione degli ambienti naturali e seminaturali e delle loro risorse, nonché allo sviluppo delle attività umane ed economiche compatibili",
+          "is_correct": true
+        },
+        {
+          "text": "Un’area naturale protetta istituita e gestita ai fini della conservazione dei caratteri e contenuti morfologici, biologici, ecologici, scientifici e culturali di rilevanza regionale",
+          "is_correct": false
+        }
+      ]
+    },
+    "B002": {
+      "question": "Cosa è il Piano Territoriale del Parco regionale?",
+      "answers": [
+        {
+          "text": "La parte dello strumento di pianificazione comunale dell'area di parco ed area contigua relativo alla tutela i valori paesaggistici e ambientali ",
+          "is_correct": false
+        },
+        {
+          "text": "Lo strumento generale che regola l’assetto del territorio dell’ambiente e degli habitat compresi nel suo perimetro ed il suo raccordo con il contesto; indica gli obiettivi specifici e di settore e precisa le destinazioni d’uso da osservare mediante gli azzonamenti e norme",
+          "is_correct": true
+        },
+        {
+          "text": "Lo strumento che individua le grandi suddivisioni di tipo fisiografico (montagna, collina, pianura, costa), i sistemi tematici (agricolo, boschivo, delle acque, insediativo) e le componenti biologiche, geomorfologiche o insediative che per la loro persistenza e inerzia al cambiamento si sono poste come elementi ordinatori delle fasi di crescita e di trasformazione del territorio di pertinenza del parco regionale",
+          "is_correct": false
+        }
+      ]
+    },
+    "B003": {
+      "question": "Cosa è il regolamento di un Parco regionale?",
+      "answers": [
+        {
+          "text": "L'insieme delle norme che disciplinano le attività consentite nel parco in conformità con le previsioni del Piano Territoriale del Parco",
+          "is_correct": true
+        },
+        {
+          "text": "L'insieme delle norme di attuazione del Piano Territoriale del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "L'insieme delle regole necessarie per elaborare il Piano Territoriale del Parco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B004": {
+      "question": "Quali sono i contenuti generali del Piano territoriale di un Parco regionale?",
+      "answers": [
+        {
+          "text": "Il Piano Territoriale del Parco articola il territorio in zone territoriali omogenee classificate come A, B, C, D, area contigua, in relazioni agli usi funzionali e produttivi",
+          "is_correct": true
+        },
+        {
+          "text": "Il Piano Territoriale del Parco disciplina le attività consentite nel Parco e nell’area contigua e le loro modalità attuative in conformità alle previsioni, prescrizioni e direttive contenute nel Piano Territoriale Paesistico",
+          "is_correct": false
+        },
+        {
+          "text": "Il Piano Territoriale del Parco delinea le scelte strategiche di sviluppo e tutela l'integrità ambientale e l'identità culturale del Parco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B005": {
+      "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco quale è la definizione di zona “B”?",
+      "answers": [
+        {
+          "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
+          "is_correct": true
+        },
+        {
+          "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "Una zona di protezione dell'ambiente naturale in quanto integro. E' consentito esclusivamente l'accesso per scopi scientifici e didattici previa autorizzazione dell'Ente di gestione del Parco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B006": {
+      "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco qual è la definizione di zona “A”?",
+      "answers": [
+        {
+          "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
+          "is_correct": false
+        },
+        {
+          "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "Una zona di protezione integrale, nella quale l'ambiente naturale è protetto nella sua integrità. È consentito l'accesso per scopi scientifici e didattici previa autorizzazione dell'Ente di gestione del Parco",
+          "is_correct": true
+        }
+      ]
+    },
+    "B007": {
+      "question": "Nell'articolazione del territorio in zone prevista dal Piano Territoriale del Parco qual è la definizione di zona “D”?",
+      "answers": [
+        {
+          "text": "Una zona di protezione generale, nella quale suolo, sottosuolo, acque, vegetazione e fauna sono rigorosamente protetti. In tale zona è vietato costruire nuove opere edilizie, ampliare costruzioni esistenti ed eseguire opere di trasformazione del territorio che non siano specificamente rivolte alla tutela dell'ambiente e del paesaggio. Sono consentite, compatibilmente con le esigenze di salvaguardia ambientale previste dal Piano territoriale, le attività agricole, forestali, zootecniche, agrituristiche ed escursionistiche nonché le infrastrutture necessarie al loro svolgimento",
+          "is_correct": false
+        },
+        {
+          "text": "Una zona di protezione ambientale, nella quale sono permesse le attività agricole, forestali, zootecniche ed altre attività compatibili nel rispetto delle finalità di salvaguardia ambientale previste dal Piano territoriale. Ferma restando la necessità di dare priorità al recupero del patrimonio edilizio esistente, sono consentite le nuove costruzioni funzionali all'esercizio delle attività agrituristiche e agro-forestali compatibili con la valorizzazione dei fini istitutivi del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "Una zona corrispondente al territorio urbano e urbanizzabile all'interno del territorio del Parco. Per tale zona il Piano definisce i limiti e le condizioni alle trasformazioni urbane in coerenza con le finalità generali e particolari del Parco",
+          "is_correct": true
+        }
+      ]
+    },
+    "B008": {
+      "question": "Quali attività sono ammesse nell’area contigua di un parco regionale?",
+      "answers": [
+        {
+          "text": "La legge prevede che il Piano Territoriale del Parco ed il Regolamento prevedano l’esercizio della caccia libera programmata",
+          "is_correct": false
+        },
+        {
+          "text": "La legge prevede che il Piano Territoriale del Parco possa prevedere attività estrattive esclusivamente se la gestione e la sistemazione finale delle aree interessate siano compatibili con le finalità del Parco ed in particolare si contribuisca al ripristino ambientale delle aree degradate",
+          "is_correct": true
+        },
+        {
+          "text": "La legge prevede il Piano Territoriale del Parco possa prevedere la realizzazione di discariche di dimensioni ridotte e compatibili con l’ambiente",
+          "is_correct": false
+        }
+      ]
+    },
+    "B009": {
+      "question": "Quale strumento può regolamentare la raccolta dei prodotti del sottobosco nei parchi regionali?",
+      "answers": [
+        {
+          "text": "Il regolamento dell’Unione dei Comuni sentito l'Ente di gestione del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "Il regolamento dell’Unione interessata",
+          "is_correct": false
+        },
+        {
+          "text": "Il regolamento del Parco",
+          "is_correct": true
+        }
+      ]
+    },
+    "B010": {
+      "question": "Cosa indica l’area contigua di un Parco?",
+      "answers": [
+        {
+          "text": "Un’area non ricompresa nel Parco con funzione di transizione e connessione rispetto al territorio del Parco stesso",
+          "is_correct": true
+        },
+        {
+          "text": "Un’area ricompresa nel Parco dove non vengono applicate i divieti previsti nelle altre zone territoriali omogenee",
+          "is_correct": false
+        },
+        {
+          "text": "Un’area ricompresa nel Parco che corrisponde al territorio urbano e urbanizzabile nella quale sono consentite tutte le attività compatibili con le finalità di salvaguardia del Parco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B011": {
+      "question": "Dove è indicata la perimetrazione della zonazione interna delle Riserve naturali?",
+      "answers": [
+        {
+          "text": "Nel Programma triennale di tutela e valorizzazione di una Riserva",
+          "is_correct": false
+        },
+        {
+          "text": "Nella deliberazione istitutiva della Riserva",
+          "is_correct": true
+        },
+        {
+          "text": "Nel Piano territoriale della Riserva",
+          "is_correct": false
+        }
+      ]
+    },
+    "B012": {
+      "question": "Quante sono e che cosa rappresentano le macroaree individuate dalla Legge regionale n. 24/2011 “Riorganizzazione del sistema Regionale delle Aree Protette e dei Siti della Rete Natura 2000 e istituzione del Parco Regionale dello Stirone e del Piacenziano”?",
+      "answers": [
+        {
+          "text": "Sono tre: una per l’appennino, una per la pianura e una per la costa e comprendono tutti i Parchi nazionali, i Parchi interregionali, i Parchi regionali e le Riserve, nonché i siti della Rete Natura 2000",
+          "is_correct": false
+        },
+        {
+          "text": "Sono tre, una per i Parchi, una per le Riserve e una per le Aree di Riequilibrio Ecologico",
+          "is_correct": false
+        },
+        {
+          "text": "Sono cinque e riuniscono le aree naturali protette appartenenti ad una zona territoriale omogenea dal punto di vista geografico, naturalistico e conservazionistico",
+          "is_correct": true
+        }
+      ]
+    },
+    "B013": {
+      "question": "Quale è la zona di protezione integrale all’interno di un Parco regionale?",
+      "answers": [
+        {
+          "text": "Zona A",
+          "is_correct": true
+        },
+        {
+          "text": "Zona contigua",
+          "is_correct": false
+        },
+        {
+          "text": "Zona B",
+          "is_correct": false
+        }
+      ]
+    },
+    "B014": {
+      "question": "Quale è la zona di un Parco Regionale in cui sono possibili particolari tipologie di interventi edilizi?",
+      "answers": [
+        {
+          "text": "Zona A",
+          "is_correct": false
+        },
+        {
+          "text": "Zona B",
+          "is_correct": false
+        },
+        {
+          "text": "Zona C a determinate condizioni e Area contigua",
+          "is_correct": true
+        }
+      ]
+    },
+    "B015": {
+      "question": "Quale è l'oggetto di tutela della convenzione di Ramsar?",
+      "answers": [
+        {
+          "text": "Le zone umide di importanza internazionale",
+          "is_correct": true
+        },
+        {
+          "text": "Le zone boscate",
+          "is_correct": false
+        },
+        {
+          "text": "Le aree di sosta degli uccelli",
+          "is_correct": false
+        }
+      ]
+    },
+    "B016": {
+      "question": "È consentita l'attività venatoria all’interno delle zone A, B, C, e D di un parco regionale?",
+      "answers": [
+        {
+          "text": "Sì, è consentita",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, ma è regolamentata",
+          "is_correct": false
+        },
+        {
+          "text": "No, è vietata",
+          "is_correct": true
+        }
+      ]
+    },
+    "B017": {
+      "question": "Il Regolamento di un Parco cosa disciplina?",
+      "answers": [
+        {
+          "text": "L’assetto del territorio e degli habitat compresi nel perimetro dell’area protetta",
+          "is_correct": false
+        },
+        {
+          "text": "L’attività venatoria all’interno dell’area protetta",
+          "is_correct": false
+        },
+        {
+          "text": "Le attività consentite nell’area protetta e le loro modalità attuative in conformità alle norme di attuazione del Piano Territoriale del Parco",
+          "is_correct": true
+        }
+      ]
+    },
+    "B018": {
+      "question": "In base alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” il territorio ricompreso in un Parco in quante e quali zone omogenee può essere articolato nelle previsioni del Piano Territoriale?",
+      "answers": [
+        {
+          "text": "Variabile da un minimo di tre ad un massimo di dieci zone",
+          "is_correct": false
+        },
+        {
+          "text": "Tre: zona A (Protezione integrale), zona B (Protezione generale), zona C (Protezione faunistica)",
+          "is_correct": false
+        },
+        {
+          "text": "Cinque: zona A (Protezione integrale), zona B (Protezione generale), zona C (Protezione ambientale), zona D (Territorio urbano e urbanizzabile), Area Contigua",
+          "is_correct": true
+        }
+      ]
+    },
+    "B019": {
+      "question": "Quali tipologie appartengono alle Aree naturali protette disciplinate dalla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”?",
+      "answers": [
+        {
+          "text": "Parchi regionali, Parchi storici, Parchi urbani, Oasi faunistiche",
+          "is_correct": false
+        },
+        {
+          "text": "Parchi regionali, Riserve naturali, Aree di Tutela Agricola",
+          "is_correct": false
+        },
+        {
+          "text": "Parchi regionali, Parchi interregionali, Riserve naturali, Paesaggi Naturali e Seminaturali Protetti, Aree di Riequilibrio Ecologico",
+          "is_correct": true
+        }
+      ]
+    },
+    "B020": {
+      "question": "Quale Ente, e con quale strumento, può istituire un Parco regionale?",
+      "answers": [
+        {
+          "text": "Il Comune con i piani urbanistici nella loro parte ambientale",
+          "is_correct": false
+        },
+        {
+          "text": "La Città Metropolitana o la Provincia con apposita Delibera del Consiglio in seguito alla delega della Legge Regionale sulle aree protette",
+          "is_correct": false
+        },
+        {
+          "text": "La Regione con apposita Legge Regionale",
+          "is_correct": true
+        }
+      ]
+    },
+    "B021": {
+      "question": "Quale Ente è competente alla erogazione di sanzioni amministrative per violazioni alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”, in materia di aree protette?",
+      "answers": [
+        {
+          "text": "L'Ente di gestione dell'area protetta",
+          "is_correct": true
+        },
+        {
+          "text": "La Città Metropolitana o la Provincia",
+          "is_correct": false
+        },
+        {
+          "text": "La Regione",
+          "is_correct": false
+        }
+      ]
+    },
+    "B022": {
+      "question": "Ai sensi della Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” nelle Riserve Naturali quale attività è vietata?",
+      "answers": [
+        {
+          "text": "L'esercizio venatorio",
+          "is_correct": true
+        },
+        {
+          "text": "L'accesso per finalità escursionistico-ricreative",
+          "is_correct": false
+        },
+        {
+          "text": "L’accesso con i mezzi motorizzati",
+          "is_correct": false
+        }
+      ]
+    },
+    "B023": {
+      "question": "Cosa sono le Aree di Riequilibrio Ecologico?",
+      "answers": [
+        {
+          "text": "Le aree naturali sottoposte alla disciplina dettata dalla Direttiva Habitat e dalla Direttiva Uccelli ",
+          "is_correct": false
+        },
+        {
+          "text": "Le aree naturali o in corso di naturalizzazione di piccole dimensioni inserite in contesti caratterizzati da intensa attività antropica",
+          "is_correct": true
+        },
+        {
+          "text": "Le aree naturali finalizzate al ripopolamento e alla protezione della fauna selvatica",
+          "is_correct": false
+        }
+      ]
+    },
+    "B024": {
+      "question": "Nelle aree contigue di un Parco regionale è permesso esercitare la pesca?",
+      "answers": [
+        {
+          "text": "Sì, ma secondo le modalità e i criteri stabili dal Regolamento dell'Ente di gestione del Parco",
+          "is_correct": true
+        },
+        {
+          "text": "Sì, secondo le modalità previste dalla specifica zona di tutela (zone di ripopolamento e sfrega, zona di protezione integrale, zona di protezione delle specie ittiche e zone a regime speciale di pesca)",
+          "is_correct": false
+        },
+        {
+          "text": "No, è sempre vietata",
+          "is_correct": false
+        }
+      ]
+    },
+    "B025": {
+      "question": "Come sono stati denominati gli enti pubblici istituti per la gestione delle macroaree ai sensi della Legge Regionale n. 24/2011 “Riorganizzazione del sistema Regionale delle Aree Protette e dei Siti della Rete Natura 2000 e istituzione del Parco Regionale dello Stirone e del Piacenziano”?",
+      "answers": [
+        {
+          "text": "Ente di gestione della macroarea",
+          "is_correct": false
+        },
+        {
+          "text": "Ente di gestione per i Parchi e la Biodiversità",
+          "is_correct": true
+        },
+        {
+          "text": "Ente di gestione delle Aree Protette",
+          "is_correct": false
+        }
+      ]
+    },
+    "B026": {
+      "question": "Cosa è la Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "La Rete di aree da tutelare secondo la normativa europea",
+          "is_correct": true
+        },
+        {
+          "text": "La Rete di aree da tutelare in base alla normativa italiana",
+          "is_correct": false
+        },
+        {
+          "text": "La Rete di aree da tutelare in base alla normativa dell'Unesco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B027": {
+      "question": "Cosa tutela la Rete ecologica Natura 2000?",
+      "answers": [
+        {
+          "text": "Habitat e uccelli",
+          "is_correct": false
+        },
+        {
+          "text": "Habitat, specie animali e vegetali",
+          "is_correct": true
+        },
+        {
+          "text": "Habitat nei parchi ",
+          "is_correct": false
+        }
+      ]
+    },
+    "B028": {
+      "question": "In base a cosa sono designati i siti di Rete Natura 2000 secondo la Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”?",
+      "answers": [
+        {
+          "text": "Presenza di habitat e specie di interesse comunitario",
+          "is_correct": true
+        },
+        {
+          "text": "Presenza di habitat e particolari specie protette di flora",
+          "is_correct": false
+        },
+        {
+          "text": "Presenza di condizioni idonee alla conservazione della natura",
+          "is_correct": false
+        }
+      ]
+    },
+    "B029": {
+      "question": "E’ possibile cacciare in un sito di Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "No mai, il calendario venatorio regionale lo vieta",
+          "is_correct": false
+        },
+        {
+          "text": "Sì sempre, ma solo fuori dai Parchi se permesso dal calendario venatorio regionale",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, ma non ovunque e con limitazioni derivanti dalle misure di conservazione e dal calendario venatorio regionale",
+          "is_correct": true
+        }
+      ]
+    },
+    "B030": {
+      "question": "Per quali siti è obbligatoria sempre la Valutazione di Incidenza Ambientale, fatte salve le cause di esclusione?",
+      "answers": [
+        {
+          "text": "All’interno dei siti di Rete Natura 2000",
+          "is_correct": true
+        },
+        {
+          "text": "All'interno dei siti di Rete Natura 2000 esterni alle Aree protette",
+          "is_correct": false
+        },
+        {
+          "text": "All’interno dei siti di rete Natura 2000 e nell'areale intorno fino a 2 chilometri dal sito",
+          "is_correct": false
+        }
+      ]
+    },
+    "B031": {
+      "question": "E’ possibile eliminare le zone umide di origine artificiale all’interno dei siti di Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "Sì sempre, a condizione che siano presenti altre zone umide naturali",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, ma solo con Valutazione di incidenza non negativa effettuata da parte dell’ente competente e che tali aree non siano vincolate dalla Misure di conservazione",
+          "is_correct": true
+        },
+        {
+          "text": "No, mai",
+          "is_correct": false
+        }
+      ]
+    },
+    "B032": {
+      "question": "A chi spettano i proventi delle sanzioni derivanti da violazioni delle norme di conservazione dei siti di Rete Natura 2000 di cui alla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000” e ss mm ii.?",
+      "answers": [
+        {
+          "text": "In ogni caso alla Regione",
+          "is_correct": false
+        },
+        {
+          "text": "All’Ente gestore del sito di Rete Natura 2000",
+          "is_correct": true
+        },
+        {
+          "text": "Alla Polizia provinciale che effettua la vigilanza nei siti di Rete Natura 2000",
+          "is_correct": false
+        }
+      ]
+    },
+    "B033": {
+      "question": "Le misure di conservazione (generali e specifiche) di un sito Natura 2000 valgono all’interno di un’area protetta?",
+      "answers": [
+        {
+          "text": "Sì, in ogni caso",
+          "is_correct": true
+        },
+        {
+          "text": "Sì, solo se non c’è una regolamentazione del Parco in materia",
+          "is_correct": false
+        },
+        {
+          "text": "No, all’interno del Parco vale solo la regolamentazione specifica di quest’area protetta",
+          "is_correct": false
+        }
+      ]
+    },
+    "B034": {
+      "question": "Cosa è vietato nelle zone umide naturali ed artificiali facenti parte della Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "L’utilizzo di munizioni con pallini di ferro o contenenti ferro per l’attività venatoria nelle zone umide",
+          "is_correct": false
+        },
+        {
+          "text": "L’utilizzo di bossoli di plastica o contenenti plastica per l’attività venatoria nelle zone umide",
+          "is_correct": false
+        },
+        {
+          "text": "L’utilizzo di munizioni con pallini di piombo o contenenti piombo per l’attività venatoria nelle zone umide",
+          "is_correct": true
+        }
+      ]
+    },
+    "B035": {
+      "question": "Nei siti di Rete Natura 2000, il taglio dei pioppeti in che periodo è vietato dalle misure generali di conservazione?",
+      "answers": [
+        {
+          "text": "Dal 1 aprile al 30 aprile ad eccezione di quelli autorizzati dal Comune",
+          "is_correct": false
+        },
+        {
+          "text": "Dal 15 marzo al 15 luglio, ad eccezione di quelli autorizzati dall’Ente gestore del sito",
+          "is_correct": true
+        },
+        {
+          "text": "Dal 21 marzo al 15 agosto ad eccezione di quelli autorizzati dalla polizia provinciale",
+          "is_correct": false
+        }
+      ]
+    },
+    "B036": {
+      "question": "Nelle misure generali di conservazione, nei siti di Rete Natura 2000, quale taglio è vietato?",
+      "answers": [
+        {
+          "text": "Il taglio degli individui di Farnia (Quercus robur) e di Salice (Salix), con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
+          "is_correct": false
+        },
+        {
+          "text": "Il taglio degli individui di Tiglio (Tilia) e di Leccio (Quercus ilex) con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
+          "is_correct": false
+        },
+        {
+          "text": "Il taglio degli individui di Tasso (Taxus) e di Agrifoglio (Ilex), con particolare attenzione agli esemplari monumentali, fatte salve le esigenze di sicurezza pubblica",
+          "is_correct": true
+        }
+      ]
+    },
+    "B037": {
+      "question": "Quale è l'obiettivo principale di Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "Mantenimento in uno stato di conservazione soddisfacente di habitat e di specie di interesse comunitario",
+          "is_correct": true
+        },
+        {
+          "text": "Impedire l'espandersi delle opere di infrastrutturazione del territorio, mantenendo gli habitat in uno stato di conservazione soddisfacente",
+          "is_correct": false
+        },
+        {
+          "text": "Tutela della flora, della fauna e mantenimento degli habitat",
+          "is_correct": false
+        }
+      ]
+    },
+    "B038": {
+      "question": "Cosa è la Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "Una rete ecologica di livello nazionale che raccoglie tutti i parchi nazionali italiani",
+          "is_correct": false
+        },
+        {
+          "text": "Una rete ecologica di livello europeo finalizzata alla tutela di specie e di habitat minacciati in un'ottica di sviluppo sostenibile",
+          "is_correct": true
+        },
+        {
+          "text": "Una rete ecologica finalizzata ad individuare zone del territorio dove impedire qualsiasi tipo di intervento antropico",
+          "is_correct": false
+        }
+      ]
+    },
+    "B039": {
+      "question": "Cosa significa il termine “habitat di specie”?",
+      "answers": [
+        {
+          "text": "L'insieme di organismi di una determinata specie",
+          "is_correct": false
+        },
+        {
+          "text": "Lo specifico ambiente, caratterizzato da determinati fattori abiotici e biotici, in cui vive la specie in una delle fasi del suo ciclo biologico",
+          "is_correct": true
+        },
+        {
+          "text": "Il rapporto che intercorre tra gli organismi viventi e l'ambiente",
+          "is_correct": false
+        }
+      ]
+    },
+    "B040": {
+      "question": "Cosa è il Piano Territoriale di un Parco regionale?",
+      "answers": [
+        {
+          "text": "Lo strumento di pianificazione comunale dell'area a parco",
+          "is_correct": false
+        },
+        {
+          "text": "Lo strumento di pianificazione dell'area a parco che regola l'assetto del territorio, dell'ambiente e degli habitat compresi nel suo perimetro ed il suo raccordo con il contesto",
+          "is_correct": true
+        },
+        {
+          "text": "Lo strumento-guida nazionale per la pianificazione territoriale delle aree a parco regionale",
+          "is_correct": false
+        }
+      ]
+    },
+    "B041": {
+      "question": "Cosa sono i Siti di Importanza Comunitaria (SIC)?",
+      "answers": [
+        {
+          "text": "Parchi e Riserve Naturali dell’Unione Europea",
+          "is_correct": false
+        },
+        {
+          "text": "Piccole aree protette del Sistema regionale dell’Emilia-Romagna",
+          "is_correct": false
+        },
+        {
+          "text": "Aree istituite dall’Unione Europea in cui conservare habitat e specie di interesse comunitario",
+          "is_correct": true
+        }
+      ]
+    },
+    "B042": {
+      "question": "Cosa sono le Zone di Protezione Speciale (ZPS)?",
+      "answers": [
+        {
+          "text": "Aree protette (Parchi e Riserve) particolarmente importanti",
+          "is_correct": false
+        },
+        {
+          "text": "Zone vincolate dalla Soprintendenza per le bellezze naturali",
+          "is_correct": false
+        },
+        {
+          "text": "Aree istituite dall’Unione Europea per la conservazione degli uccelli",
+          "is_correct": true
+        }
+      ]
+    },
+    "B043": {
+      "question": "Quali sono i siti protetti delle Direttive comunitarie 79/409 CEE concernente la conservazione degli uccelli selvatici e Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”?",
+      "answers": [
+        {
+          "text": "Zone Ramsar",
+          "is_correct": false
+        },
+        {
+          "text": "ZPS (Zone di Protezione Speciale) e SIC (Siti di Importanza Comunitaria)",
+          "is_correct": true
+        },
+        {
+          "text": "Zone a vincolo ambientale e paesaggistico",
+          "is_correct": false
+        }
+      ]
+    },
+    "B044": {
+      "question": "Quale è la principale differenza tra le aree protette ed i siti della Rete Natura 2000?",
+      "answers": [
+        {
+          "text": "Nessuna differenza, essendo tutte aree finalizzate alla conservazione della natura e della biodiversità",
+          "is_correct": false
+        },
+        {
+          "text": "Le aree protette discendono dalla Legge n. 394/1991 “Legge quadro sulle aree protette” mentre i siti della Rete Natura 2000 discendono dalle Direttive comunitarie 79/409 CEE concernente la conservazione degli uccelli selvatici e dalla Direttiva 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”",
+          "is_correct": true
+        },
+        {
+          "text": "Nelle aree protette sono vietate tutte le attività dell'uomo, mentre nei siti della Rete Natura 2000 le attività sono consentite e regolamentate",
+          "is_correct": false
+        }
+      ]
+    },
+    "B045": {
+      "question": "Ai sensi della Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000”, la Rete Natura 2000 da cosa è costituita?",
+      "answers": [
+        {
+          "text": "Zone di protezione speciale (ZPS) individuate ai sensi della direttiva n. 79/409/CEE concernente la conservazione degli uccelli selvatici e dai Siti di importanza comunitaria (SIC), individuati ai sensi della direttiva n. 92/43/CEE relativa alla “Conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche”",
+          "is_correct": true
+        },
+        {
+          "text": "Zone Ramsar e Aree MAB (Man and Biosphere) dell'Unesco collegate tra loro da aree di collegamento ecologico",
+          "is_correct": false
+        },
+        {
+          "text": "Oasi di Protezione faunistica",
+          "is_correct": false
+        }
+      ]
+    },
+    "B046": {
+      "question": "Le Guardie Ecologiche Volontarie possono accogliere e fornire informazioni ai visitatori dei centri visita dei parchi?",
+      "answers": [
+        {
+          "text": "Sì, se opportunamente formate e solo se in accordo con l'Ente di gestione del Parco",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, ma solo all'esterno del centro visita",
+          "is_correct": false
+        },
+        {
+          "text": "No, serve personale laureato",
+          "is_correct": false
+        }
+      ]
+    },
+    "B047": {
+      "question": "Quali sono le tipologie di misure di conservazione secondo la normativa regionale?",
+      "answers": [
+        {
+          "text": "Generali e specifiche",
+          "is_correct": true
+        },
+        {
+          "text": "Generali e particolari",
+          "is_correct": false
+        },
+        {
+          "text": "Generali e territoriali",
+          "is_correct": false
+        }
+      ]
+    },
+    "B048": {
+      "question": "Nei siti di Rete Natura 2000 quali captazioni idriche esistenti o nuove sono vietate?",
+      "answers": [
+        {
+          "text": "Quelle che non rispettano il rilascio del Deflusso Minimo Vitale nei corsi d’acqua naturali",
+          "is_correct": true
+        },
+        {
+          "text": "Quelle che prelevano a monte del sito di Rete Natura 2000",
+          "is_correct": false
+        },
+        {
+          "text": "Quelle che prelevano a valle del sito di Rete Natura 2000",
+          "is_correct": false
+        }
+      ]
+    },
+    "B049": {
+      "question": "Nei siti di Rete Natura 2000 dove sono previste le norme regolamentari?",
+      "answers": [
+        {
+          "text": "Misure generali di conservazione, misure specifiche di conservazione, piani di gestione e regolamenti di settore dei Parchi",
+          "is_correct": true
+        },
+        {
+          "text": "Unicamente nelle Misure di conservazione (generali e specifiche) dei siti di rete Natura 2000",
+          "is_correct": false
+        },
+        {
+          "text": "Nei Regolamenti di settore dei Parchi",
+          "is_correct": false
+        }
+      ]
+    },
+    "B050": {
+      "question": "E’ vietata all’interno dei siti di Rete Natura 2000 la realizzazione di nuove discariche?",
+      "answers": [
+        {
+          "text": "Sì, all’interno dei siti di Rete Natura 2000 è vietata la realizzazione di nuove discariche o di nuovi impianti di trattamento e di smaltimento di fanghi e rifiuti, nonché l’ampliamento di quelli esistenti in termini di superficie, fatte salve le discariche per inerti",
+          "is_correct": true
+        },
+        {
+          "text": "No, poiché la Rete Natura 2000 non è considerata un’area naturale protetta",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, è vietata anche all’esterno dei siti di Rete Natura 2000",
+          "is_correct": false
+        }
+      ]
+    },
+    "B051": {
+      "question": "Chi istituisce e gestisce i Paesaggi naturali e seminaturali protetti?",
+      "answers": [
+        {
+          "text": "L’Ente di Gestione per i Parchi e la Biodiversità",
+          "is_correct": true
+        },
+        {
+          "text": "La Regione Emilia-Romagna",
+          "is_correct": false
+        },
+        {
+          "text": "La Provincia di riferimento",
+          "is_correct": false
+        }
+      ]
+    },
+    "B052": {
+      "question": "Un cittadino sta accendendo un barbecue a legna (fuoco all’aperto) all’interno del perimetro di un parco regionale. Cosa verifico?",
+      "answers": [
+        {
+          "text": "Che l’area sia attrezzata allo scopo e autorizzata dall’Ente di gestione del Parco",
+          "is_correct": true
+        },
+        {
+          "text": "Non è un problema i barbecue si possono accendere ovunque",
+          "is_correct": false
+        },
+        {
+          "text": "Che ci troviamo in area contigua e che sia rispettato il periodo di “grave pericolosità”",
+          "is_correct": false
+        }
+      ]
+    },
+    "B053": {
+      "question": "La sorveglianza territoriale nelle aree protette regionali, ai sensi della L.R. n. 6/2005 e successive modifiche, da chi può essere svolta?",
+      "answers": [
+        {
+          "text": "Dai guardiaparco, dalle strutture della Polizia locale di cui alla legge regionale 24/2003, dai carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
+          "is_correct": false
+        },
+        {
+          "text": "Dai Carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
+          "is_correct": false
+        },
+        {
+          "text": "Dai guardiaparco, dalle strutture della Polizia locale di cui alla legge regionale 24/2003, dagli ufficiali ed agenti di polizia giudiziaria competenti in base alla legislazione statale e a seguito di convenzione, dai carabinieri forestali e da associazioni di volontariato cui siano riconosciute anche funzioni di sorveglianza",
+          "is_correct": true
+        }
+      ]
+    },
+    "B054": {
+      "question": "A quanto ammonta la sanzione pecuniaria per la cattura o l’uccisione di ogni capo di fauna selvatica soggetta a protezione dalla normativa di un’area protetta regionale?",
+      "answers": [
+        {
+          "text": "Da 500 a 5.000 euro",
+          "is_correct": true
+        },
+        {
+          "text": "Da 25 a 250 euro",
+          "is_correct": false
+        },
+        {
+          "text": "Da 250 a 2.500 euro",
+          "is_correct": false
+        }
+      ]
+    },
+    "B055": {
+      "question": "In un’area protetta regionale i trasgressori sono tenuti a restituire quanto eventualmente asportato, compresi gli animali abbattuti?",
+      "answers": [
+        {
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "text": "Sì",
+          "is_correct": true
+        },
+        {
+          "text": "Possono non restituirli pagando una sanzione aggiuntiva",
+          "is_correct": false
+        }
+      ]
+    },
+    "B056": {
+      "question": "All’interno di un parco regionale in quali zone è consentito esercitare l’attività venatoria?",
+      "answers": [
+        {
+          "text": "Nella zona A",
+          "is_correct": false
+        },
+        {
+          "text": "Nell’area contigua",
+          "is_correct": true
+        },
+        {
+          "text": "Nell’area contigua e nella zona C",
+          "is_correct": false
+        }
+      ]
+    },
+    "B057": {
+      "question": "In un parco regionale, le attività di smaltimento e recupero rifiuti:",
+      "answers": [
+        {
+          "text": "Sono vietate in tutte le zone del parco (A, B, C) e nell’area contigua",
+          "is_correct": true
+        },
+        {
+          "text": "Sono vietate tutte le zone del parco (A, B, C)",
+          "is_correct": false
+        },
+        {
+          "text": "Sono consentite in tutte le zone di parco",
+          "is_correct": false
+        }
+      ]
+    },
+    "B058": {
+      "question": "Cosa sono i Paesaggi Naturali e Seminaturali Protetti (PNSP)",
+      "answers": [
+        {
+          "text": "Una forma di area protetta prevista dalla Legge Regionale n.24 “Disciplina regionale sulla tutela e l’uso del territorio",
+          "is_correct": false
+        },
+        {
+          "text": "Una tipologia di area protetta prevista dalla Legge Regionale n. 6/2005 “Disciplina della forma e della gestione del sistema regionale delle aree naturali protette e dei siti della Rete Natura 2000",
+          "is_correct": true
+        },
+        {
+          "text": "Una forma di prima protezione di un territorio semi-antropizzato, in attesa di diventare un’area protetta vera e propria a seguito di una gestione indirizzata alla conservazione della biodiversità, come previsto dalla L.R n. 6/2005",
+          "is_correct": false
+        }
+      ]
+    },
+    "B059": {
+      "question": "In caso di progetti di impianti eolici da realizzarsi all’esterno di un sito Natura 2000, ma all’interno di una fascia di 5 km dal perimetro del sito, è obbligatorio effettuare la valutazione di incidenza?",
+      "answers": [
+        {
+          "text": "No, è sempre vietata trattandosi di un’area protetta",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, è sempre consentita su tutta la superficie dell’area protetta",
+          "is_correct": false
+        },
+        {
+          "text": "E’ consentita, ma può essere eventualmente limitata o preclusa in alcune porzioni del PNSP in osservanza degli obiettivi gestionali specifici e delle misure di sostegno per la conservazione delle risorse naturali, contenuti nell’atto istitutivo",
+          "is_correct": true
+        },
+        {
+          "text": "No, essendo l’impianto eolico, previsto all’esterno del sito, non è soggetto a valutazione di incidenza",
+          "is_correct": false
+        },
+        {
+          "text": "Effettuare la valutazione di incidenza, in questo caso, è a discrezione dell’Ente Gestore",
+          "is_correct": false
+        },
+        {
+          "text": "Sì, è obbligatorio effettuare la valutazione di incidenza attenendosi, in particolare per i Chirotteri, alle indicazioni adottate dal Consiglio d’Europa con la risoluzione 5.6 “Wind Turbines and Bat Populations” del 2006",
+          "is_correct": true
+        }
+      ]
+    },
+    "B060": {
+      "question": "Il Parere di conformità è uno strumento di controllo per il governo dei Parchi. In quali casi viene rilasciato dall’Ente di Gestione del Parco?",
+      "answers": [
+        {
+          "text": "Il Parere di conformità viene rilasciato per progetti, interventi, impianti, opere e attività che comportino trasformazioni ammissibili all’assetto ambientale e paesaggistico entro il perimetro del Parco e dell’area contigua",
+          "is_correct": false
+        },
+        {
+          "text": "Il Parere di conformità viene rilasciato per Piani, Regolamenti e loro varianti, degli Enti pubblici territorialmente interessati dal Parco, unitamente ai programmi relativi ad interventi, impianti ed opere da realizzare all’interno del territorio del Parco e nelle aree ad esso contigue, al di fuori delle zone D e valuta la conformità rispetto alle norme di salvaguardia della legge istitutiva, al Piano territoriale del Parco e al relativo Regolamento",
+          "is_correct": true
+        },
+        {
+          "text": "Il Parere di conformità deve valutare la conformità degli interventi e delle opere previste nel territorio del Parco con quanto previsto dal Piano Territoriale di Coordinamento Provinciale (PTCP).",
+          "is_correct": false
+        }
+      ]
+    },
+    "B061": {
+      "question": "Il nulla osta è un ulteriore strumento di controllo per il governo dei Parchi. In quali casi viene rilasciato dall’Ente di Gestione del Parco?",
+      "answers": [
+        {
+          "text": "Il Nulla osta viene rilasciato per Piani, Regolamenti e loro varianti, degli Enti pubblici territorialmente interessati dal Parco, unitamente ai programmi relativi ad interventi, impianti ed opere da realizzare all’interno del territorio del Parco e nelle aree ad esso contigue, al di fuori delle zone D e valuta la conformità rispetto alle norme di salvaguardia della legge istitutiva, al Piano territoriale del Parco e al relativo Regolamento",
+          "is_correct": false
+        },
+        {
+          "text": "Il Nulla osta viene rilasciato per progetti per interventi, impianti, opere e attività che comportino trasformazioni ammissibili all’assetto ambientale e paesaggistico entro il perimetro del Parco e dell’Area contigua, dopo aver verificato la conformità rispetto alle norme di salvaguardia della legge istitutiva, le disposizioni del Piano e del Regolamento",
+          "is_correct": true
+        },
+        {
+          "text": "Il Nulla Osta viene rilasciato dopo aver verificato la coerenza delle opere e degli interventi con le Norme Tecniche di Attuazione del Piano Territoriale di Coordinamento Provinciale (PTCP)",
+          "is_correct": false
+        }
+      ]
+    },
+    "B062": {
+      "question": "Il Parere di conformità e il Nulla osta sono strumenti di controllo per il governo di Aree protette",
+      "answers": [
+        {
+          "text": "Sono strumenti esclusivi, previsti dalla L.R. 6/2005, per il governo dei Parchi regionali e interregionali.",
+          "is_correct": false
+        },
+        {
+          "text": "Sono strumenti previsti dalla L.R. 6/2005 per tutte le tipologie di Aree Protette",
+          "is_correct": false
+        },
+        {
+          "text": "Sono strumenti previsti dalla L.R. 6/2005 per il governo dei Parchi e delle Riserve Naturali",
+          "is_correct": true
+        }
+      ]
+    },
+    "C001": {
+      "question": "Quante felci sono presenti nell'elenco delle specie protette dalla Legge regionale n. 2/1977 “Provvedimenti per la salvaguardia della flora regionale – istituzione di un fondo regionale per la conservazione della natura – disciplina della raccolta dei prodotti nel sottobosco”?",
+      "answers": [
+        {
+          "text": "Un genere",
+          "is_correct": true
+        },
+        {
+          "text": "Più di due",
+          "is_correct": false
+        },
+        {
+          "text": "Nessuno",
+          "is_correct": false
+        }
+      ]
+    },
     "C002": {
       "question": "Che caratteristiche hanno i boschi cedui?",
       "answers": [
