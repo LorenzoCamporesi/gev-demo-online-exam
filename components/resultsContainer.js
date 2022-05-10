@@ -8,6 +8,10 @@ function ResultsContainer({ correctQuestions, wrongQuestions }) {
 
     })
 
+    function refreshPage() {
+        window.location.reload(false);
+    }
+
     return (
         <div>
             {
@@ -17,6 +21,9 @@ function ResultsContainer({ correctQuestions, wrongQuestions }) {
             }
             <div className="ml-3 mt-3">
                 Risposte sbagliate: <b>{ wrongQuestions.length }</b>
+            </div>
+            <div className="py-2">
+                <button className="p-2 w-full bg-orange-300 rounded-xl border-1 text-center shadow-lg" onClick={refreshPage}>Ripeti il quiz</button>
             </div>
             <div className="mt-3 mt-3">
                 {
@@ -43,6 +50,9 @@ function ResultsContainer({ correctQuestions, wrongQuestions }) {
                         </>);
                     })
                 }
+            </div>
+            <div className="py-2">
+                <button className="p-2 w-full bg-orange-300 rounded-xl border-1 text-center shadow-lg" onClick={refreshPage}>Ripeti il quiz</button>
             </div>
         </div>
     );
