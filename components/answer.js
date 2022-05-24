@@ -7,7 +7,7 @@ function Answer({answer, clickOnAnswer, answerIndex}) {
     }
 
     return (
-        <div className="text-lg mt-4 p-2 bg-blue-300 rounded-xl border-2 border-blue-500 text-center"
+        <div className="cursor-pointer text-lg mt-4 p-2 bg-blue-300 rounded-xl border-2 border-blue-500 text-center"
              onClick={handleClick}>
             <p>{answer.text}</p>
         </div>

@@ -20,7 +20,7 @@ function QuestionContainer({ question, nextQuestion }) {
             <Question text={question[1].question}/>
             <div className="">
                 {
-                    question[1].answers.map((value, index) => {
+                    shuffleArray(question[1].answers).map((value, index) => {
                         return <Answer answerIndex={index} key={index} answer={value} text={value.text} clickOnAnswer={clickOnAnswer}/>;
                     })
                 }
