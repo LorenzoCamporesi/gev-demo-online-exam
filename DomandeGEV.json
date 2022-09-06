@@ -1705,7 +1705,7 @@
       "answers": [
         {
           "text": "Sì, se opportunamente formate e solo se in accordo con l'Ente di gestione del Parco",
-          "is_correct": false
+          "is_correct": true
         },
         {
           "text": "Sì, ma solo all'esterno del centro visita",
