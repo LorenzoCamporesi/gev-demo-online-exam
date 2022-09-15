@@ -332,7 +332,7 @@
         },
         {
           "text": "All’Ente o all’organismo pubblico competente",
-          "is_correct": false
+          "is_correct": true
         },
         {
           "text": "Alla Prefettura",
@@ -4744,6 +4744,14 @@
         {
           "text": "No",
           "is_correct": true
+        },
+        {
+          "text": "Sì, solo se non hanno comportamenti dannosi per l'agricoltura",
+          "is_correct": false
+        },
+        {
+          "text": "Sì",
+          "is_correct": false
         }
       ]
     },
