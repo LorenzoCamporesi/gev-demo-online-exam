@@ -15,7 +15,7 @@ function ResultsContainer({ correctQuestions, wrongQuestions }) {
     return (
         <div>
             {
-            wrongQuestions.length > 9?
+            wrongQuestions.length > 5?
                 <h1 className='text-center text-3xl text-red-600 uppercase font-bold'>Bocciato</h1> :
                 <h1 className='text-center text-3xl text-green-600 uppercase font-bold'>🎉 Promosso 🎉</h1>
             }

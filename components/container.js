@@ -9,7 +9,7 @@ const shuffleArray = (arr) => arr.sort(() => 0.5 - Math.random());
 
 function Container() {
 
-    const selectedQuestions = shuffleArray((Object.entries(data))).slice(0, 30);
+    const selectedQuestions = shuffleArray((Object.entries(data))).slice(0, 25);
 
     let [currentQuestionNumber, setCurrentQuestionNumber]= useState(1, value => {
         return value
@@ -34,7 +34,7 @@ function Container() {
             }]);
         }
         setCurrentQuestionNumber(currentQuestionNumber+1)
-        if(currentQuestionNumber <= 30){
+        if(currentQuestionNumber <= 25){
             setCurrentQuestion(selectedQuestions[currentQuestionNumber-1])
         }else{
 
@@ -48,12 +48,12 @@ function Container() {
     return(
         <>
             {
-                currentQuestionNumber <= 30 ?
-                    <p className="text-center text-3xl mb-5">{currentQuestionNumber}/30</p> :
+                currentQuestionNumber <= 25 ?
+                    <p className="text-center text-3xl mb-5">{currentQuestionNumber}/25</p> :
                     ''
             }
             {
-                currentQuestionNumber <= 30 ?
+                currentQuestionNumber <= 25 ?
                     <QuestionContainer question={currentQuestion} nextQuestion={nextQuestion}/> :
                     <ResultsContainer correctQuestions={correctQuestions} wrongQuestions={wrongQuestions}/>
             }
